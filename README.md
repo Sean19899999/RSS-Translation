@@ -12,3 +12,6 @@
 ## 已转换翻译源
 
  - source001 [https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml](https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml) -> [News_Minimalist.xml](rss/News_Minimalist.xml)
+ - source002 [https://rsshub.app/apnews/topics/ap-top-news](https://rsshub.app/apnews/topics/ap-top-news) -> [Ap_Top_News.xml](rss/Ap_Top_News.xml)
+ - source003 [https://rsshub.app/reuters/world](https://rsshub.app/reuters/world) -> [Ruters_World.xml](rss/Ruters_World.xml)
+ - source004 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [Ruters_China.xml](rss/Ruters_China.xml)
