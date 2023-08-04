@@ -3,7 +3,7 @@
 <channel>
 <title>Top News: US &amp; International Top News Stories Today | AP News | AP News</title>
 <link>https://apnews.com/hub/ap-top-news</link>
-<atom:link href="https://rsshub.app/apnews/topics/ap-top-news" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/apnews/topics/ap-top-news" rel="self" type="application/rss+xml"/>
 <description>Top News: US &amp; International Top News Stories Today | AP News | AP News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
