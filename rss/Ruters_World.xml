@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
