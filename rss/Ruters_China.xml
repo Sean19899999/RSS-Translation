@@ -13,7 +13,7 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Wed, 27 Dec 2023 13:44:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 Dec 2023 17:49:19 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
 <title>中国致力于扩大内需，确保经济快速复苏</title>
@@ -37,12 +37,22 @@
 </item>
 <item>
 <title>新世界与华润将斥资13亿美元在香港兴建住宅开发项目</title>
-<description>香港新世界发展公司和中国政府支持的华润置地表示，明年他们将在这座金融城市的“北方大都市”联合建设一个耗资13亿美元的住房项目。</description>
+<description>香港新世界发展公司和中国政府支持的华润置地表示，他们明年将在这座金融城市的“北方大都市”联合建设一个耗资13亿美元的住房项目。</description>
 <pubDate>Wed, 27 Dec 2023 09:13:06 GMT</pubDate>
 <guid isPermaLink="false">DXXZGPEFWNLZPDG2RFNUEAWDTA</guid>
 <link>https://www.reuters.com/business/new-world-china-resources-build-13-bln-hong-kong-housing-development-2023-12-27/</link>
 <author>Reuters</author>
 <category>Business</category>
+</item>
+<item>
+<title>韩国首都举行演习以防朝鲜突然袭击</title>
+<description>周三，1000多名韩国军队、警察和应急人员参加了罕见的防御演习，模拟朝鲜对首尔的袭击，以打消人们对首尔处于平壤武器和秘密袭击攻击范围内的担忧。</description>
+<pubDate>Wed, 27 Dec 2023 08:49:02 GMT</pubDate>
+<guid isPermaLink="false">HH7574J7JZOHLFPKGF3LVT3RZQ</guid>
+<link>https://www.reuters.com/world/asia-pacific/south-korean-capital-drills-guard-against-surprise-attack-by-north-2023-12-27/</link>
+<author>Daewoung Kim, Jimin Jung</author>
+<category>World</category>
+<category>Asia Pacific</category>
 </item>
 <item>
 <title>比亚迪获得高速路自动驾驶3级有条件测试牌照</title>
@@ -76,7 +86,7 @@
 </item>
 <item>
 <title>中国工业利润实现两位数增长但复苏不平衡</title>
-<description>尽管需求疲软继续限制企业增长预期，但随着制造业整体改善，中国 11 月份工业利润录得两位数增长，鼓励更多宏观政策支持。</description>
+<description>尽管需求疲软继续限制企业增长预期，但随着制造业整体改善，中国 11 月份工业利润实现两位数增长，鼓励更多宏观政策支持。</description>
 <pubDate>Wed, 27 Dec 2023 02:27:36 GMT</pubDate>
 <guid isPermaLink="false">SH54CNRR7ROAHCSCHVCPGVRUJQ</guid>
 <link>https://www.reuters.com/world/china/chinas-industrial-profits-extend-gains-4th-month-nov-2023-12-27/</link>
@@ -145,7 +155,7 @@
 <category>China</category>
 </item>
 <item>
-<title>阿斯利康斥资12亿美元收购中国亘喜生物</title>
+<title>阿斯利康斥资 12 亿美元收购中国亘喜生物</title>
 <description>阿斯利康周二表示，将以高达 12 亿美元的价格收购 Gracell Biotechnologies，这家英瑞制药公司将进一步推进其细胞治疗雄心，并增强其在全球第二大制药市场中国的业务。</description>
 <pubDate>Tue, 26 Dec 2023 07:13:22 GMT</pubDate>
 <guid isPermaLink="false">AMGHYV62QJNSHJTNNEB6UCWBF4</guid>
@@ -196,23 +206,13 @@
 </item>
 <item>
 <title>中国警告火箭弹残骸将袭击南海</title>
-<description>中国警告说，继十一天前第六次部署其最强大的运载火箭后，一枚火箭的残余物将于周二击中南中国海的一个地区。</description>
+<description>中国警告说，继十一天前第六次部署其最强大的运载火箭后，一枚火箭的残余物将于周二击中南海的一个地区。</description>
 <pubDate>Tue, 26 Dec 2023 01:39:57 GMT</pubDate>
 <guid isPermaLink="false">TBHRLQLGCJPELGK6EVQXXIFXVA</guid>
 <link>https://www.reuters.com/world/asia-pacific/china-warns-rocket-remnants-hit-south-china-sea-maritime-safety-authority-2023-12-26/</link>
 <author>Reuters</author>
 <category>World</category>
 <category>Asia Pacific</category>
-</item>
-<item>
-<title>中国将为在印度被捕的vivo员工提供领事协助</title>
-<description>外交部发言人周一表示，中方将为印度当局逮捕的智能手机制造商 Vivo 两名中国员工提供领事保护和协助，并敦促印方不要歧视中国企业。</description>
-<pubDate>Mon, 25 Dec 2023 08:59:54 GMT</pubDate>
-<guid isPermaLink="false">TIARG5RVI5KTRMIYGJN4YFHTRE</guid>
-<link>https://www.reuters.com/world/india/china-provide-consular-assistance-vivo-employees-arrested-india-2023-12-25/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>India</category>
 </item>
 </channel>
 </rss>
