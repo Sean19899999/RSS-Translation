@@ -13,8 +13,36 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Fri, 29 Dec 2023 06:32:58 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 Dec 2023 10:36:04 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>京东胜诉阿里巴巴反垄断诉讼</title>
+<description>中国在线零售商京东周五表示，它赢得了对竞争对手阿里巴巴的诉讼，阿里巴巴因垄断行为被罚款 10 亿元人民币（1.4068 亿美元）。</description>
+<pubDate>Fri, 29 Dec 2023 09:21:02 GMT</pubDate>
+<guid isPermaLink="false">ORQXEFSDTZM53K725E27GQWABU</guid>
+<link>https://www.reuters.com/technology/jdcom-wins-antimonopoly-lawsuit-against-alibaba-2023-12-29/</link>
+<author>Reuters</author>
+<category>Technology</category>
+</item>
+<item>
+<title>英伟达为中国推出新游戏芯片以遵守美国出口管制</title>
+<description>美国芯片制造商英伟达周四推出了先进游戏芯片的改进版本，旨在遵守美国针对中国的出口管制。</description>
+<pubDate>Fri, 29 Dec 2023 07:35:52 GMT</pubDate>
+<guid isPermaLink="false">2LTWNZ2Y3RL73D2RB3EWDHJJZY</guid>
+<link>https://www.reuters.com/technology/nvidia-launches-new-gaming-chip-china-comply-with-us-export-controls-2023-12-29/</link>
+<author>Reuters</author>
+<category>Technology</category>
+</item>
+<item>
+<title>中国的烟花爆竹禁令在农历新年前引发激烈争论</title>
+<description>中国立法者周五在网上就是否应该用烟花爆竹来迎接二月农历新年的激烈争论进行了讨论，称在发明烟花爆竹的中国全面禁止烟花爆竹将很难实施。</description>
+<pubDate>Fri, 29 Dec 2023 07:28:05 GMT</pubDate>
+<guid isPermaLink="false">2MZP74RMNZJJ7BAXHKEIXPKLAI</guid>
+<link>https://www.reuters.com/world/china/chinas-fireworks-ban-sparks-fiery-debate-ahead-lunar-new-year-2023-12-29/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>China</category>
+</item>
 <item>
 <title>中国对咖啡的新需求引发了咖啡馆的激烈竞争</title>
 <description>中国的咖啡消费量快速增长，引发了本地和外国咖啡连锁店之间的激烈竞争，近几个月来，这些咖啡连锁店开设了数千家品牌店，超过了美国的咖啡店数量。</description>
@@ -46,15 +74,6 @@
 <category>Aerospace &amp; Defense</category>
 </item>
 <item>
-<title>亚洲股市因降息押注将结束两年连续下跌</title>
-<description>股市在 2023 年最后一个交易日稍作喘息。</description>
-<pubDate>Fri, 29 Dec 2023 03:41:41 GMT</pubDate>
-<guid isPermaLink="false">3JS7MANFDFOUNCUATHEANHE5EY</guid>
-<link>https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-29/</link>
-<author>Ankur Banerjee</author>
-<category>Markets</category>
-</item>
-<item>
 <title>中国雾霾天气，新年旅客做好应对潜在干扰的准备</title>
 <description>气象局周五警告称，从北部的河北省到上海南部的地区将被大雾霾笼罩超过24小时，中国各地的年终度假者正准备应对可能的交通中断。</description>
 <pubDate>Fri, 29 Dec 2023 03:15:38 GMT</pubDate>
@@ -65,12 +84,12 @@
 <category>China</category>
 </item>
 <item>
-<title>卢比将跟随亚洲货币走高，印度储备银行是 2024 年的关键因素</title>
-<description>预计印度卢比周五开盘小幅走高，追随亚洲货币对美联储最早将于下季度转向的押注而上涨。</description>
-<pubDate>Fri, 29 Dec 2023 02:47:43 GMT</pubDate>
-<guid isPermaLink="false">XHWFYQ7AAJOLTM5RBK24KHYWZM</guid>
-<link>https://www.reuters.com/markets/currencies/rupee-follow-asian-fx-higher-rbi-key-factor-2024-2023-12-29/</link>
-<author>Nimesh Vora, Jaspreet Kalra</author>
+<title>2024 年降息押注美元将终结两年连涨势头</title>
+<description>美元周五小幅走高，但仍将以亏损结束2023年，扭转了连续两年的涨幅，受到市场预期美联储最早可能在3月开始放松利率的拖累。</description>
+<pubDate>Fri, 29 Dec 2023 02:36:27 GMT</pubDate>
+<guid isPermaLink="false">3BZTYDXJ55J47P5SLXLSFY3HYI</guid>
+<link>https://www.reuters.com/markets/currencies/dollar-snaps-two-year-winning-streak-2024-rate-cut-bets-2023-12-29/</link>
+<author>Samuel Indyk, Rae Wee</author>
 <category>Markets</category>
 <category>Currencies</category>
 </item>
@@ -179,26 +198,6 @@
 <author>Yelin Mo, Casey Hall</author>
 <category>Business</category>
 <category>Autos &amp; Transportation</category>
-</item>
-<item>
-<title>路透调查显示中国12月份工厂活动可能连续第三个月萎缩</title>
-<description>路透周四的一项民意调查显示，由于制成品需求疲软，中国制造业活动可能连续第三个月萎缩，这一数据将鼓励更多政策支持的呼声。</description>
-<pubDate>Thu, 28 Dec 2023 05:15:47 GMT</pubDate>
-<guid isPermaLink="false">M5FHCCL4CRMCLN6HHQFVPC5CSM</guid>
-<link>https://www.reuters.com/world/china/chinas-dec-factory-activity-likely-contracted-third-month-2023-12-28/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>China</category>
-</item>
-<item>
-<title>越南“竹子外交”进入加速阶段</title>
-<description>共产党统治的越南升级了与世界头号强国的关系，包括前敌人中国和美国，作为其“竹子外交”的一部分，越南自 2021 年以来一直积极推行“竹子外交”，以应对日益加剧的全球紧张局势。</description>
-<pubDate>Thu, 28 Dec 2023 04:08:36 GMT</pubDate>
-<guid isPermaLink="false">7UH3Q3QFGBJ6NM73KICFA2DEQY</guid>
-<link>https://www.reuters.com/world/asia-pacific/vietnams-bamboo-diplomacy-shifts-into-higher-gear-2023-12-28/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Asia Pacific</category>
 </item>
 <item>
 <title>中国致力于扩大内需，确保经济快速复苏</title>
