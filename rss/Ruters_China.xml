@@ -13,11 +13,11 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Tue, 02 Jan 2024 15:39:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jan 2024 19:40:28 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
 <title>巴克莱银行降级后苹果跌至七周低点</title>
-<description>巴克莱银行因担心 2024 年从 iPhone 到 Mac 等苹果设备的需求仍将疲软，下调了这家全球市值最高公司的股价，周二苹果股价下跌 3%，至七周低点。</description>
+<description>由于担心 iPhone 和 Mac 等苹果设备的需求在 2024 年仍将疲软，巴克莱银行下调了这家全球市值最高公司的股价，周二苹果股价下跌近 3%，至七周低点。</description>
 <pubDate>Tue, 02 Jan 2024 14:48:01 GMT</pubDate>
 <guid isPermaLink="false">3OKMEDIPDJNXLPAWBYOEBD3ADE</guid>
 <link>https://www.reuters.com/technology/apple-starts-2024-with-barclays-downgrade-2024-01-02/</link>
@@ -43,6 +43,16 @@
 <author>Reuters</author>
 <category>Business</category>
 <category>Energy</category>
+</item>
+<item>
+<title>特斯拉交付量超过预期，年底销售推动取得成效</title>
+<description>特斯拉在第四季度交付了创纪录的电动汽车数量，超出了市场预期，并实现了 2023 年 180 万辆汽车的目标，年底的销售推动取得了成效。</description>
+<pubDate>Tue, 02 Jan 2024 13:44:58 GMT</pubDate>
+<guid isPermaLink="false">ROUKIBYX7ZORZAYF5YBBDNP5IQ</guid>
+<link>https://www.reuters.com/business/autos-transportation/teslas-fourth-quarter-deliveries-beat-estimates-2024-01-02/</link>
+<author>Akash Sriram</author>
+<category>Business</category>
+<category>Autos &amp; Transportation</category>
 </item>
 <item>
 <title>独家：电子游戏规则引发骚乱后中国撤职官员</title>
@@ -154,12 +164,12 @@
 <category>Asian Markets</category>
 </item>
 <item>
-<title>欧洲股市回落，油价上涨</title>
-<description>欧洲股市周二下跌，因交易员押注各国央行将在 2024 年降息，最初高开后走势发生变化，而红海海战后油价上涨。</description>
+<title>随着降息乐观情绪消退，全球股市回落，国债收益率上升</title>
+<description>由于市场对美联储今年将大幅降息的乐观情绪消退，华尔街和欧洲股市周二下跌，美国和其他政府债券价格也下跌。</description>
 <pubDate>Tue, 02 Jan 2024 02:37:27 GMT</pubDate>
 <guid isPermaLink="false">7HTZX2HSTJPVBA2D2DQ75LQUYM</guid>
 <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-01-02/</link>
-<author>Elizabeth Howcroft</author>
+<author>Herbert Lash, Elizabeth Howcroft</author>
 <category>Markets</category>
 </item>
 <item>
@@ -174,11 +184,11 @@
 </item>
 <item>
 <title>随着美国收益率反弹，美元将创十月以来最大单日涨幅</title>
-<description>美元在今年第一个交易日上涨，受到美国收益率上升的支撑，本周注意力转向美国就业数据和欧洲通胀数据，这可能为央行下一步行动提供线索。</description>
+<description>受美国国债收益率上升的支撑，美元在今年第一个交易日上涨，同时投资者等待美国就业数据和欧洲通胀数据以获取有关央行政策的线索。</description>
 <pubDate>Tue, 02 Jan 2024 01:24:15 GMT</pubDate>
 <guid isPermaLink="false">FAGFYTRNS5O77MHAJJP3IYM3MY</guid>
 <link>https://www.reuters.com/markets/currencies/dollar-starts-2024-steady-focus-switches-data-2024-01-02/</link>
-<author>Alun John</author>
+<author>Sinéad Carew</author>
 <category>Markets</category>
 <category>Currencies</category>
 </item>
@@ -200,15 +210,6 @@
 <link>https://www.reuters.com/technology/asml-says-dutch-government-revoked-some-export-license-2024-01-01/</link>
 <author>Reuters</author>
 <category>Technology</category>
-</item>
-<item>
-<title>尼加拉瓜与中国自由贸易协定启动</title>
-<description>尼加拉瓜和中国周一根据新的自由贸易协定正式开始贸易，允许这个中美洲国家向这个最大的亚洲市场出口约 71% 的产品，并且免关税。</description>
-<pubDate>Mon, 01 Jan 2024 18:33:53 GMT</pubDate>
-<guid isPermaLink="false">F6VBYJ3TCVJK3EW6Z3AU47KZGY</guid>
-<link>https://www.reuters.com/world/free-trade-agreement-between-nicaragua-china-begins-2024-01-01/</link>
-<author>Ismael Lopez</author>
-<category>World</category>
 </item>
 </channel>
 </rss>
