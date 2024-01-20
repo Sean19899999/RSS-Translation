@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,8 +13,97 @@
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
 </image>
-<lastBuildDate>Fri, 19 Jan 2024 19:26:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jan 2024 23:27:40 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>巴拿马最大垃圾填埋场起火，有毒烟雾笼罩首都</title>
+<description>周五，巴拿马城外的一个垃圾场发生大火，该国首都冒出有毒烟雾，迫使人们疏散，消防队员奋力扑灭大火，当局称这场大火可能是前一天晚上纵火造成的。</description>
+<pubDate>Fri, 19 Jan 2024 22:37:50 GMT</pubDate>
+<guid isPermaLink="false">GADNCLB73FNJHJ2IM6K5DOF5HA</guid>
+<link>https://www.reuters.com/world/americas/fire-panamas-largest-landfill-blows-toxic-smoke-over-capital-2024-01-19/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Americas</category>
+</item>
+<item>
+<title>拜登希望下周在参议院就美墨边境问题达成两党一揽子计划</title>
+<description>美国总统乔·拜登周五表示，他希望至少下周能够在民主党控制的参议院就美墨边境问题达成一项协议，并补充说需要“重大政策改变”。</description>
+<pubDate>Fri, 19 Jan 2024 22:01:08 GMT</pubDate>
+<guid isPermaLink="false">WYTW3YF7BBI7VDM3GYQNCXVAC4</guid>
+<link>https://www.reuters.com/world/americas/biden-hopeful-bipartisan-package-senate-us-mexico-border-next-week-2024-01-19/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Americas</category>
+</item>
+<item>
+<title>联合国报告：苏丹一座城市发生种族屠杀，造成多达 15,000 人死亡</title>
+<description>据路透社周五看到的一份联合国报告称，去年，苏丹西达尔富尔地区的一座城市在准军事快速支援部队 (RSF) 和阿拉伯联盟民兵的种族暴力中造成 10,000 至 15,000 人死亡。</description>
+<pubDate>Fri, 19 Jan 2024 21:54:28 GMT</pubDate>
+<guid isPermaLink="false">SX3KGKDGDJLZRFIH27UCFVO4II</guid>
+<link>https://www.reuters.com/world/africa/ethnic-killings-one-sudan-city-left-up-15000-dead-un-report-2024-01-19/</link>
+<author>Michelle Nichols, Maggie Michael</author>
+<category>World</category>
+<category>Africa</category>
+</item>
+<item>
+<title>西班牙军队出动救援约 600 名被雪困住的驾车者</title>
+<description>当局周五表示，随着胡安风暴席卷西班牙许多地区，军队出动部队帮助大约 600 名在大雪中被困在高速公路上的司机。</description>
+<pubDate>Fri, 19 Jan 2024 21:53:04 GMT</pubDate>
+<guid isPermaLink="false">YPL3MZ3FT5MLRFHIL2CRBPJZYQ</guid>
+<link>https://www.reuters.com/world/europe/army-called-rescue-about-600-spanish-motorists-stuck-snow-2024-01-19/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Europe</category>
+</item>
+<item>
+<title>约旦总理敦促美国带头结束加沙“大屠杀”</title>
+<description>约旦总理比舍尔·哈萨瓦内周五表示，美国和其他大国需要利用其对以色列的影响力来结束加沙正在进行的“大屠杀”。</description>
+<pubDate>Fri, 19 Jan 2024 21:00:37 GMT</pubDate>
+<guid isPermaLink="false">NT6GPVE5QRPYJHLF3CHSBWBID4</guid>
+<link>https://www.reuters.com/world/middle-east/jordans-pm-urges-us-take-lead-ending-gaza-carnage-2024-01-19/</link>
+<author>Marc Jones</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
+<item>
+<title>美国民主党就以色列加沙战役中平民伤亡问题向拜登施压</title>
+<description>总统乔·拜登的数十名民主党同僚周五签署了一封信，敦促他的政府重申美国强烈反对巴勒斯坦人“被迫永久流离失所”加沙。</description>
+<pubDate>Fri, 19 Jan 2024 20:53:12 GMT</pubDate>
+<guid isPermaLink="false">4JJYFTCEFNO3XK372QR7RHU5QU</guid>
+<link>https://www.reuters.com/world/us-democrats-push-biden-over-civilian-toll-israels-gaza-campaign-2024-01-19/</link>
+<author>Patricia Zengerle</author>
+<category>World</category>
+</item>
+<item>
+<title>三名法国警察因 2017 年逮捕期间过度使用武力被判缓刑</title>
+<description>法国一家法院周五裁定，三名法国警察因 2017 年逮捕一名年轻黑人男子时过度使用武力而被判处缓刑，引发法庭外抗议，要求警察入狱服刑。</description>
+<pubDate>Fri, 19 Jan 2024 20:22:49 GMT</pubDate>
+<guid isPermaLink="false">U3PA3TDURNN5XLCEHSFV7E2LPU</guid>
+<link>https://www.reuters.com/world/europe/three-french-police-officers-given-suspended-jail-terms-excessive-force-during-2024-01-19/</link>
+<author>Layli Foroudi, Juliette Jabkhiro</author>
+<category>World</category>
+<category>Europe</category>
+</item>
+<item>
+<title>白宫周五对胡塞武装目标进行了三次袭击</title>
+<description>白宫表示，美国周五对也门胡塞武装目标进行了三次“成功的自卫打击”。</description>
+<pubDate>Fri, 19 Jan 2024 20:19:01 GMT</pubDate>
+<guid isPermaLink="false">DAT54E3B5BMW5PN6KMDOZSN4XE</guid>
+<link>https://www.reuters.com/world/middle-east/us-conducted-three-strikes-against-houthi-targets-friday-white-house-2024-01-19/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
+<item>
+<title>巴勒斯坦美国青少年在约旦河西岸被以色列军队杀害——巴勒斯坦官员</title>
+<description>巴勒斯坦卫生官员称，周五，一名巴勒斯坦裔美国青少年在被占领的约旦河西岸被以色列安全部队杀害。</description>
+<pubDate>Fri, 19 Jan 2024 19:30:31 GMT</pubDate>
+<guid isPermaLink="false">XW3RSVUBDVIX7GQX26FNXX3UBE</guid>
+<link>https://www.reuters.com/world/middle-east/palestinian-american-teenager-killed-by-israeli-forces-west-bank-palestinian-2024-01-19/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
 <item>
 <title>被起诉的塞拉利昂前总统科罗马飞往尼日利亚</title>
 <description>两名路透社记者称，塞拉利昂前总统欧内斯特·巴伊·科罗马于周五乘飞机离开西非国家飞往尼日利亚，此前法庭允许他以健康为由出国旅行，尽管他被指控叛国罪。</description>
@@ -36,71 +125,22 @@
 <category>Europe</category>
 </item>
 <item>
-<title>白宫表示，拜登与内塔尼亚胡讨论了以色列和加沙的事态发展</title>
-<description>白宫表示，美国总统乔·拜登周五与以色列总理本杰明·内塔尼亚胡通电话，讨论了以色列和加沙地带的事态发展，以色列军队继续在加沙地带南部取得重大进展。</description>
+<title>拜登与内塔尼亚胡就加沙袭击和巴勒斯坦国进行交谈</title>
+<description>美国总统乔·拜登周五表示，他与以色列总理本杰明·内塔尼亚胡讨论了为巴勒斯坦人建立独立国家的可能解决方案，并指出并非所有国家都有自己的军队。</description>
 <pubDate>Fri, 19 Jan 2024 17:41:21 GMT</pubDate>
 <guid isPermaLink="false">XOKITH53YBPL5GGIZASMRRP7KA</guid>
 <link>https://www.reuters.com/world/biden-discussed-developments-israel-gaza-with-netanyahu-white-house-says-2024-01-19/</link>
-<author>Reuters</author>
+<author>Andrea Shalal</author>
 <category>World</category>
-</item>
-<item>
-<title>斯洛伐克议会主席确认总统竞选，面对前外交部长</title>
-<description>斯洛伐克议会主席、政府联盟第二大党领袖彼得·佩莱格里尼周五证实，他将参加三月份的总统选举。</description>
-<pubDate>Fri, 19 Jan 2024 17:39:50 GMT</pubDate>
-<guid isPermaLink="false">2XLZVQNK3RN4NIQ6UZWPZAHRDA</guid>
-<link>https://www.reuters.com/world/europe/slovak-parliament-chief-confirms-presidential-bid-facing-ex-foreign-minister-2024-01-19/</link>
-<author>Jason Hovet</author>
-<category>World</category>
-<category>Europe</category>
-</item>
-<item>
-<title>无国界医生：援助人员对加沙的“海洋”需求影响甚微</title>
-<description>无国界医生组织 (MSF) 的工作人员周五表示，由于经过近 15 周的战争，加沙的情况不断恶化，医疗援助人员只能满足加沙的一小部分人道主义需求。</description>
-<pubDate>Fri, 19 Jan 2024 17:31:28 GMT</pubDate>
-<guid isPermaLink="false">IDZPPE6Q6FPB3LFCGCXEHDNZZA</guid>
-<link>https://www.reuters.com/world/middle-east/aid-workers-can-make-little-impact-ocean-need-gaza-msf-2024-01-19/</link>
-<author>Aidan Lewis</author>
-<category>World</category>
-<category>Middle East</category>
-</item>
-<item>
-<title>更多粮船在袭击后离开红海</title>
-<description>谷物贸易商和分析师周五表示，过去几天红海地区航运遭受的袭击导致转道好望角周围而不是使用苏伊士运河的谷物货物数量急剧增加。</description>
-<pubDate>Fri, 19 Jan 2024 17:31:00 GMT</pubDate>
-<guid isPermaLink="false">C53NZKI7O5NUHBBFI2WNDUMAVI</guid>
-<link>https://www.reuters.com/world/more-grain-ships-divert-red-sea-after-attacks-2024-01-19/</link>
-<author>Reuters</author>
-<category>World</category>
-</item>
-<item>
-<title>伊拉克发现伊斯兰国受害者近8亿美元资金被诈骗 - 官方媒体</title>
-<description>伊拉克国家安全局宣布，它发现了一项涉及欺诈和挪用伊斯兰国受害者款项的腐败计划，国库被盗走超过 1 万亿伊拉克第纳尔（7.6 亿美元）。</description>
-<pubDate>Fri, 19 Jan 2024 17:13:09 GMT</pubDate>
-<guid isPermaLink="false">YG6AKVXLDRIHNMBJO7S6NK7G6U</guid>
-<link>https://www.reuters.com/world/middle-east/iraq-finds-nearly-800-million-fraud-funds-islamic-state-victims-state-media-2024-01-19/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Middle East</category>
 </item>
 <item>
 <title>外交部长王毅表示巴西支持北京的“一个中国政策”</title>
-<description>中国外交部长王毅周五欢迎巴西支持北京的“一个中国政策”，该政策称台湾是中国不可分割的一部分，此举加强了与南美洲最大国家的双边关系。</description>
+<description>中国外交部长王毅周五欢迎巴西最近支持北京的“一个中国政策”，该政策称台湾是中国不可分割的一部分，这表明与南美洲最大国家的双边关系更加牢固。</description>
 <pubDate>Fri, 19 Jan 2024 17:11:39 GMT</pubDate>
 <guid isPermaLink="false">FZCLBNVUOVPHNF274TRANIQSS4</guid>
 <link>https://www.reuters.com/world/brazil-backs-beijings-one-china-policy-foreign-minister-wang-yi-says-2024-01-19/</link>
 <author>Anthony Boadle</author>
 <category>World</category>
-</item>
-<item>
-<title>在达沃斯听到的消息：我们从 2024 年世界经济论坛中学到了什么</title>
-<description>在就世界重大问题举行了一周的高风险会议后，世界领导人和企业高管离开了寒冷的瑞士山区度假胜地达沃斯。</description>
-<pubDate>Fri, 19 Jan 2024 16:55:51 GMT</pubDate>
-<guid isPermaLink="false">NEX43VBAW5IJ5JHVJX6VYG4M3Y</guid>
-<link>https://www.reuters.com/world/heard-davos-what-we-learned-wef-2024-2024-01-19/</link>
-<author>Reuters</author>
-<category>Business</category>
-<category>Davos</category>
 </item>
 <item>
 <title>阿根廷逮捕并驱逐厄瓜多尔逃亡黑帮头目菲托的亲属</title>
@@ -111,25 +151,6 @@
 <author>Reuters</author>
 <category>World</category>
 <category>Americas</category>
-</item>
-<item>
-<title>美国财政部和中国金融官员同意在北京会谈后继续会面</title>
-<description>美国财政部周五表示，美国财政部和中国金融官员本周在北京举行的会议结束，双方同意继续定期会面。</description>
-<pubDate>Fri, 19 Jan 2024 15:00:13 GMT</pubDate>
-<guid isPermaLink="false">UP3H2Q6X3JO25JVPA5EMO4D32Q</guid>
-<link>https://www.reuters.com/world/us-treasury-chinese-finance-officials-agree-keep-meeting-after-beijing-talks-2024-01-19/</link>
-<author>Reuters</author>
-<category>World</category>
-</item>
-<item>
-<title>伊朗渴望在达沃斯“占据一席之地”</title>
-<description>本周在瑞士滑雪胜地达沃斯举行的晚宴上，总理穆罕默德·希亚·苏达尼招待了商界和政界领导人，展示伊拉克安全和财政状况的改善。</description>
-<pubDate>Fri, 19 Jan 2024 14:34:33 GMT</pubDate>
-<guid isPermaLink="false">PU6AAR6KFBK77JZLJHZN5PMODE</guid>
-<link>https://www.reuters.com/world/middle-east/irans-desire-a-seat-table-felt-davos-2024-01-19/</link>
-<author>Dmitry Zhdannikov, Maha Dahan</author>
-<category>Business</category>
-<category>Davos</category>
 </item>
 <item>
 <title>哈里王子撤回针对英国小报的诽谤指控</title>
@@ -151,12 +172,12 @@
 <category>World</category>
 </item>
 <item>
-<title>日本SLIM探测器登陆月球但无法产生太阳能</title>
-<description>日本航天局表示，日本周六成为第五个将航天器送上月球的国家，但该探测器在执行验证“精确”着陆技术并重振遭受挫折的太空计划的任务期间并未产生太阳能。</description>
+<title>日本超薄月球飞船成功登月后电力不足</title>
+<description>日本周六成为第五个将航天器送上月球的国家，但太阳能问题可能会缩短该国证明“精确”着陆技术并重振遭受挫折的太空计划的任务。</description>
 <pubDate>Fri, 19 Jan 2024 13:36:32 GMT</pubDate>
 <guid isPermaLink="false">XOHD3NYWQNKCHBZDPMQDEQHSNA</guid>
 <link>https://www.reuters.com/technology/space/japan-starts-precision-landing-moon-sniper-slim-spacecraft-2024-01-19/</link>
-<author>Kantaro Komiya</author>
+<author>Kantaro Komiya, Joey Roulette</author>
 <category>Technology</category>
 <category>Space</category>
 </item>
@@ -171,32 +192,12 @@
 <category>Middle East</category>
 </item>
 <item>
-<title>寻求庇护者穿越俄罗斯边境前往芬兰后“失踪”</title>
-<description>芬兰移民局表示，由于经由俄罗斯抵达的寻求庇护者突然激增，去年在芬兰东部边境申请庇护的约 160 人失踪。</description>
-<pubDate>Fri, 19 Jan 2024 11:57:15 GMT</pubDate>
-<guid isPermaLink="false">P22JZQW2KRJVDBAFDDSR23UANM</guid>
-<link>https://www.reuters.com/world/europe/asylum-seekers-missing-after-crossing-russia-border-finland-2024-01-19/</link>
-<author>Greta Fondahn</author>
-<category>World</category>
-<category>Europe</category>
-</item>
-<item>
 <title>巴勒斯坦红新月会表示，以色列无人机袭击了加沙南部的医院</title>
 <description>红新月会表示，“以色列无人机向阿迈勒医院和救援机构基地的公民进行猛烈射击”，导致流离失所者受伤。军方表示正在检查该报告。</description>
 <pubDate>Fri, 19 Jan 2024 11:49:53 GMT</pubDate>
 <guid isPermaLink="false">YS4PFBY7LJO7ZFSFBMJQGBYYZE</guid>
 <link>https://www.reuters.com/world/middle-east/israeli-tanks-renew-push-towards-biggest-hospital-still-working-gaza-2024-01-19/</link>
 <author>Ibraheemabu Mustafa, Nidal Al-Mughrabi</author>
-<category>World</category>
-<category>Middle East</category>
-</item>
-<item>
-<title>加沙医生在没有麻醉的情况下在家中截肢了侄女的腿</title>
-<description>巴勒斯坦医生哈尼·贝塞索 (Hani Bseiso) 十几岁的侄女因以色列炮击加沙城的家而受伤，他面临着一个痛苦的决定：要么截肢，要么冒失血过多而死的危险。</description>
-<pubDate>Fri, 19 Jan 2024 09:24:03 GMT</pubDate>
-<guid isPermaLink="false">JXIJNKLADJKVNP7Q6QH6IA5KGU</guid>
-<link>https://www.reuters.com/world/middle-east/gaza-doctor-amputates-nieces-leg-home-without-anaesthesia-2024-01-19/</link>
-<author>Reuters</author>
 <category>World</category>
 <category>Middle East</category>
 </item>
