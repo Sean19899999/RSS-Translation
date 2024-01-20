@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -27,7 +27,7 @@
 </item>
 <item>
 <title>拜登希望下周在参议院就美墨边境问题达成两党一揽子计划</title>
-<description>美国总统乔·拜登周五表示，他希望至少下周能够在民主党控制的参议院就美墨边境问题达成一项协议，并补充说需要“重大政策改变”。</description>
+<description>总统乔·拜登周五表示，他希望至少下周能够在民主党控制的参议院就美墨边境问题达成一项协议，并补充说需要“重大政策改变”。</description>
 <pubDate>Fri, 19 Jan 2024 22:01:08 GMT</pubDate>
 <guid isPermaLink="false">WYTW3YF7BBI7VDM3GYQNCXVAC4</guid>
 <link>https://www.reuters.com/world/americas/biden-hopeful-bipartisan-package-senate-us-mexico-border-next-week-2024-01-19/</link>
@@ -67,7 +67,7 @@
 </item>
 <item>
 <title>美国民主党就以色列加沙战役中平民伤亡问题向拜登施压</title>
-<description>总统乔·拜登的数十名民主党同僚周五签署了一封信，敦促他的政府重申美国强烈反对巴勒斯坦人“被迫永久流离失所”加沙。</description>
+<description>总统乔·拜登的数十名民主党同僚周五签署了一封信，敦促其政府重申美国强烈反对巴勒斯坦人“被迫永久流离失所”。</description>
 <pubDate>Fri, 19 Jan 2024 20:53:12 GMT</pubDate>
 <guid isPermaLink="false">4JJYFTCEFNO3XK372QR7RHU5QU</guid>
 <link>https://www.reuters.com/world/us-democrats-push-biden-over-civilian-toll-israels-gaza-campaign-2024-01-19/</link>
