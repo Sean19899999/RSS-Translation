@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -17,7 +17,7 @@
 <ttl>120</ttl>
 <item>
 <title>美国寻求对约旦河西岸美国青少年死亡事件进行调查</title>
-<description>一名 17 岁巴勒斯坦裔美国人在约旦河西岸死亡，美国周一呼吁“酌情”进行调查并追究责任。巴勒斯坦卫生官员称该男子是被以色列安全部队杀害的。</description>
+<description>一名 17 岁巴勒斯坦裔美国人在约旦河西岸死亡后，美国周一呼吁“酌情”进行调查并追究责任。巴勒斯坦卫生官员称该男子是被以色列安全部队杀害的。</description>
 <pubDate>Mon, 22 Jan 2024 19:25:38 GMT</pubDate>
 <guid isPermaLink="false">7XJQAUJOTJOGPLHR5YS2ESDBMM</guid>
 <link>https://www.reuters.com/world/us-seeks-probe-into-west-bank-death-us-teenager-2024-01-22/</link>
@@ -36,7 +36,7 @@
 </item>
 <item>
 <title>厄瓜多尔警方抓获哥伦比亚持不同政见叛乱组织领导人</title>
-<description>厄瓜多尔警方周一表示，他们已经抓获了哥伦比亚武装组织奥利弗·辛尼斯特拉(Oliver Sinisterra)的领导人，厄瓜多尔当局将把他遣返回哥伦比亚。</description>
+<description>厄瓜多尔警方周一表示，他们已经抓获了哥伦比亚武装组织奥利弗·西尼斯特拉(Oliver Sinisterra)的领导人，厄瓜多尔当局将把他遣返回哥伦比亚。</description>
 <pubDate>Mon, 22 Jan 2024 18:53:01 GMT</pubDate>
 <guid isPermaLink="false">REBHCQG7UFIJNHTDQLHEBM7TJE</guid>
 <link>https://www.reuters.com/world/americas/ecuador-police-capture-leader-colombian-dissident-rebel-group-2024-01-22/</link>
@@ -84,7 +84,7 @@
 </item>
 <item>
 <title>解释者：为什么加拿大要限制外国学生以及谁会受到影响？</title>
-<description>在近年来的爆炸性增长加剧了住房短缺之后，加拿大周一宣布对外国学生入学实行两年上限。根据政府数据，去年加拿大发放了近 100 万份学习许可，约为十年前的三倍，而新提案将减少近三分之一的录取人数。</description>
+<description>在近年来的爆炸式增长加剧了住房短缺之后，加拿大周一宣布对外国学生入学实行两年上限。根据政府数据，去年加拿大发放了近 100 万份学习许可，约为十年前的三倍，而新提案将减少近三分之一的录取人数。</description>
 <pubDate>Mon, 22 Jan 2024 18:05:04 GMT</pubDate>
 <guid isPermaLink="false">YPV3YCES5ZMLFE3RDMYEBDRBRY</guid>
 <link>https://www.reuters.com/world/americas/why-is-canada-capping-foreign-students-who-will-be-impacted-2024-01-22/</link>
@@ -104,7 +104,7 @@
 </item>
 <item>
 <title>土耳其议会将于周二就瑞典加入北约进行辩论——消息人士</title>
-<description>土耳其议会的三位消息人士称，土耳其议会大会定于周二就瑞典加入北约的问题进行辩论。</description>
+<description>土耳其议会的三名消息人士称，土耳其议会大会定于周二就瑞典加入北约的问题进行辩论。</description>
 <pubDate>Mon, 22 Jan 2024 17:44:32 GMT</pubDate>
 <guid isPermaLink="false">CSNDJLIIOBNOVHJCWNRZWIYNI4</guid>
 <link>https://www.reuters.com/world/turkish-parliament-debate-swedens-nato-bid-tuesday-sources-2024-01-22/</link>
@@ -113,7 +113,7 @@
 </item>
 <item>
 <title>美国针对伊朗制裁哈马斯金融网络和伊拉克航空公司</title>
-<description>美国周一对加沙哈马斯附属金融交易所、一家伊拉克航空公司以及伊拉克境内与伊朗有联系的民兵组织的支持者实施制裁，指责所有这些机构都与伊朗精锐军事和情报部门合作。</description>
+<description>美国周一对加沙哈马斯附属金融交易所、一家伊拉克航空公司以及伊拉克境内与伊朗有关联的民兵组织的支持者实施制裁，指责所有这些机构都与伊朗精锐军事和情报部门合作。</description>
 <pubDate>Mon, 22 Jan 2024 17:40:58 GMT</pubDate>
 <guid isPermaLink="false">J6MI4ECSLBO7ZKITEPN2EQNNSI</guid>
 <link>https://www.reuters.com/world/us-puts-sanctions-hamas-linked-financial-networks-others-2024-01-22/</link>
@@ -141,7 +141,7 @@
 </item>
 <item>
 <title>利比里亚总统博阿凯在中暑后恢复职务-总统</title>
-<description>利比里亚总统表示，利比里亚新总统约瑟夫·博阿凯因中暑而中断了周一的就职演说，现已康复，并已恢复正常活动。</description>
+<description>利比里亚总统表示，利比里亚新任总统约瑟夫·博阿凯因中暑而中断了周一的就职演说，现已康复，并已恢复正常活动。</description>
 <pubDate>Mon, 22 Jan 2024 14:45:35 GMT</pubDate>
 <guid isPermaLink="false">72CN7NVZ6NOHTIAZZTVD4WT4GA</guid>
 <link>https://www.reuters.com/world/africa/liberia-president-boakai-helped-away-podium-during-inauguration-2024-01-22/</link>
