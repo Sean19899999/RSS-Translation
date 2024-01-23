@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,8 +13,96 @@
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
 </image>
-<lastBuildDate>Mon, 22 Jan 2024 20:20:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jan 2024 00:20:34 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>澳大利亚因 Medibank 违规行为对俄罗斯黑客实施制裁</title>
+<description>澳大利亚周二对一名俄罗斯男子实施网络制裁，原因是他参与了保险公司 Medibank 的数据泄露事件，这是该国最大的数据盗窃事件之一，影响了约 1000 万客户。</description>
+<pubDate>Mon, 22 Jan 2024 23:50:38 GMT</pubDate>
+<guid isPermaLink="false">Q475ETVLN5ML3NI65NJVAIB2UA</guid>
+<link>https://www.reuters.com/technology/cybersecurity/australia-imposes-sanctions-on-russian-hacker-over-medibank-breach-2024-01-22/</link>
+<author>Renju Jose</author>
+<category>Technology</category>
+<category>Cybersecurity</category>
+</item>
+<item>
+<title>美国呼吁以色列在军队袭击加沙医院时保护无辜者</title>
+<description>周一，以色列军队深入加沙汗尤尼斯西部地区，袭击了一家医院，并包围了另一家医院，美国周一呼吁以色列保护医院中的无辜者、医务人员和患者。</description>
+<pubDate>Mon, 22 Jan 2024 23:37:17 GMT</pubDate>
+<guid isPermaLink="false">4MHMUYQMRBN4JCU7WRDG3TGAR4</guid>
+<link>https://www.reuters.com/world/middle-east/us-calls-israel-protect-innocent-forces-storm-gaza-hospital-2024-01-22/</link>
+<author>Bassam Masoud, Nidal Al-Mughrabi</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
+<item>
+<title>海地警察部队因帮派危机而缩减 - 联盟</title>
+<description>海地国家警察主要工会的数据显示，由于安全官员配备不足，与估计控制首都大部分地区的强大帮派作战，海地国家警察在三年内失去了近 3,300 名警察。</description>
+<pubDate>Mon, 22 Jan 2024 23:17:40 GMT</pubDate>
+<guid isPermaLink="false">O5PNDOL5PRMTBKE3VUYPZOR2TU</guid>
+<link>https://www.reuters.com/world/americas/haitis-police-force-shrinks-amid-gang-crisis-union-2024-01-22/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Americas</category>
+</item>
+<item>
+<title>美国和英国袭击也门胡塞武装地下储存地点</title>
+<description>五角大楼表示，美国和英国周一针对也门胡塞武装针对红海航运进行了新一轮打击，目标是地下储存设施、导弹和胡塞武装的其他军事能力。</description>
+<pubDate>Mon, 22 Jan 2024 22:45:57 GMT</pubDate>
+<guid isPermaLink="false">KPO4EDT3UVMW7KWEKZFEVZITRY</guid>
+<link>https://www.reuters.com/world/us-britain-strike-underground-houthi-storage-site-yemen-2024-01-22/</link>
+<author>Reuters</author>
+<category>World</category>
+</item>
+<item>
+<title>中国音乐学生因涉嫌威胁活动人士而面临美国审判</title>
+<description>周一，一名中国音乐学生在美国受审，罪名是骚扰一名在波士顿伯克利音乐学院张贴支持中国民主传单的活动人士，并威胁要向中国执法部门举报她的活动。</description>
+<pubDate>Mon, 22 Jan 2024 22:29:45 GMT</pubDate>
+<guid isPermaLink="false">ONSVBGIJGFNBFD2FAZ6PC5BY6M</guid>
+<link>https://www.reuters.com/legal/chinese-music-student-faces-us-trial-alleged-threats-activist-2024-01-22/</link>
+<author>Nate Raymond</author>
+<category>Legal</category>
+</item>
+<item>
+<title>摩尔多瓦分裂主义领导人呼吁做好军事准备</title>
+<description>摩尔多瓦亲俄分裂主义外德涅斯特地区领导人周一呼吁其国防和情报机构保持“高水平的军事准备”，并为此定期举行演习。</description>
+<pubDate>Mon, 22 Jan 2024 22:23:25 GMT</pubDate>
+<guid isPermaLink="false">6YRLIUUX4VK3PP7LTI6UZQJXJU</guid>
+<link>https://www.reuters.com/world/europe/moldovan-separatist-leader-calls-military-readiness-2024-01-22/</link>
+<author>Alexander Tanas</author>
+<category>World</category>
+<category>Europe</category>
+</item>
+<item>
+<title>美英军队在也门发动新的空袭</title>
+<description>新一轮袭击的目标是胡塞武装地下储存地点以及与伊朗结盟的组织使用的导弹和监视能力。</description>
+<pubDate>Mon, 22 Jan 2024 21:52:38 GMT</pubDate>
+<guid isPermaLink="false">S5TN5FFBNRI2TDJIKI7EFX5Z24</guid>
+<link>https://www.reuters.com/world/middle-east/us-british-forces-carry-out-new-strikes-yemen-officials-2024-01-22/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
+<item>
+<title>《月色惊魂》、《炎热的夜晚》导演诺曼·杰维森去世，享年 97 岁</title>
+<description>加拿大电影导演诺曼·杰维森 (Norman Jewison) 去世，享年 1967 年的种族剧情片《炎热的夜晚》、1987 年的尖酸浪漫喜剧《月色惊魂》和 1971 年的音乐剧《屋顶上的提琴手》。 97，他的公关人员说。</description>
+<pubDate>Mon, 22 Jan 2024 21:08:41 GMT</pubDate>
+<guid isPermaLink="false">DP4JIHSVIZJR3KTBHEF2GGCOCU</guid>
+<link>https://www.reuters.com/world/americas/norman-jewison-director-in-heat-night-dead-97-2024-01-22/</link>
+<author>Will Dunham</author>
+<category>World</category>
+<category>Americas</category>
+</item>
+<item>
+<title>委内瑞拉总检察长对 14 名共谋嫌疑人发出逮捕令</title>
+<description>委内瑞拉总检察长周一表示，对涉嫌密谋反对总统尼古拉斯·马杜罗政府的平民和前军事人员发出了 14 项逮捕令。</description>
+<pubDate>Mon, 22 Jan 2024 21:02:58 GMT</pubDate>
+<guid isPermaLink="false">SAZVBRCBIFMD3DU4NZP7C2C2SA</guid>
+<link>https://www.reuters.com/world/americas/venezuela-issues-arrest-warrants-14-alleged-conspirators-attorney-general-2024-01-22/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Americas</category>
+</item>
 <item>
 <title>美国寻求对约旦河西岸美国青少年死亡事件进行调查</title>
 <description>一名 17 岁巴勒斯坦裔美国人在约旦河西岸死亡后，美国周一呼吁“酌情”进行调查并追究责任。巴勒斯坦卫生官员称该男子是被以色列安全部队杀害的。</description>
@@ -36,7 +124,7 @@
 </item>
 <item>
 <title>厄瓜多尔警方抓获哥伦比亚持不同政见叛乱组织领导人</title>
-<description>厄瓜多尔警方周一表示，他们已经抓获了哥伦比亚武装组织奥利弗·西尼斯特拉(Oliver Sinisterra)的领导人，厄瓜多尔当局将把他遣返回哥伦比亚。</description>
+<description>厄瓜多尔警方周一表示，他们已经抓获了哥伦比亚武装组织奥利弗·辛尼斯特拉(Oliver Sinisterra)的领导人，厄瓜多尔当局将把他遣返回哥伦比亚。</description>
 <pubDate>Mon, 22 Jan 2024 18:53:01 GMT</pubDate>
 <guid isPermaLink="false">REBHCQG7UFIJNHTDQLHEBM7TJE</guid>
 <link>https://www.reuters.com/world/americas/ecuador-police-capture-leader-colombian-dissident-rebel-group-2024-01-22/</link>
@@ -45,40 +133,12 @@
 <category>Americas</category>
 </item>
 <item>
-<title>美国国防部长将在家参加乌克兰问题虚拟会议</title>
-<description>五角大楼周一表示，美国国防部长劳埃德·奥斯汀将在家中虚拟地参加有关乌克兰军事需求的会议，这位国防部长正在继续从导致他秘密住院的前列腺癌治疗并发症中恢复。</description>
-<pubDate>Mon, 22 Jan 2024 18:50:08 GMT</pubDate>
-<guid isPermaLink="false">PYPI6D2II5KBXBT7636SDTZK2Q</guid>
-<link>https://www.reuters.com/world/us-defense-secretary-attend-virtual-meeting-ukraine-home-2024-01-22/</link>
-<author>Reuters</author>
-<category>World</category>
-</item>
-<item>
-<title>拜登和英国首相苏纳克周一谈到中东和乌克兰——白宫</title>
-<description>白宫发言人约翰·柯比表示，美国总统乔·拜登周一与英国首相里希·苏纳克就红海、加沙和乌克兰问题进行了交谈。</description>
-<pubDate>Mon, 22 Jan 2024 18:46:45 GMT</pubDate>
-<guid isPermaLink="false">K3OKQZ3HIRODTNPM2TZQUXQ74A</guid>
-<link>https://www.reuters.com/world/biden-uk-pm-sunak-spoke-about-middle-east-ukraine-monday-white-house-2024-01-22/</link>
-<author>Reuters</author>
-<category>World</category>
-</item>
-<item>
 <title>巴西将在马瑙斯警察中心与亚马逊国家分享情报和技术</title>
 <description>巴西一名高级警官表示，巴西正在马瑙斯建立一个国际安全中心，该中心将汇集亚马逊国家，共同维护雨林、共享情报和追捕罪犯。</description>
 <pubDate>Mon, 22 Jan 2024 18:39:45 GMT</pubDate>
 <guid isPermaLink="false">PH5NR2UBWROB5GVMW2AID4B6C4</guid>
 <link>https://www.reuters.com/world/americas/brazil-share-intel-technology-with-amazon-nations-manaus-police-hub-2024-01-22/</link>
 <author>Anthony Boadle, Ricardo Brito</author>
-<category>World</category>
-<category>Americas</category>
-</item>
-<item>
-<title>被监禁的古巴抗议者家属提交请愿书要求自由</title>
-<description>2021 年 7 月反政府抗议活动后入狱的 34 名古巴囚犯的家人已向立法者提交请愿书，寻求特赦他们的亲人。</description>
-<pubDate>Mon, 22 Jan 2024 18:32:26 GMT</pubDate>
-<guid isPermaLink="false">R5T2IGIDRZL65HGNCQZIQRVZWQ</guid>
-<link>https://www.reuters.com/world/americas/families-jailed-cuban-protesters-file-petition-their-freedom-2024-01-22/</link>
-<author>Reuters</author>
 <category>World</category>
 <category>Americas</category>
 </item>
@@ -93,7 +153,7 @@
 <category>Americas</category>
 </item>
 <item>
-<title>随着连任支持率下降，特鲁多会面召集部长和议员围绕关键问题</title>
+<title>随着连任支持率下降，特鲁多开会，围绕关键问题召集部长和议员</title>
 <description>加拿大总理贾斯汀·特鲁多本周将召集政府和立法者讨论住房和食品价格等关键问题，以期在明年可能举行的第四次大选之前重新获得支持。</description>
 <pubDate>Mon, 22 Jan 2024 17:46:45 GMT</pubDate>
 <guid isPermaLink="false">6U2JRBGDEZL33BX7KEZ2XEOMX4</guid>
@@ -121,25 +181,6 @@
 <category>World</category>
 </item>
 <item>
-<title>美国否认也门胡塞武装声称袭击亚丁湾美军货船</title>
-<description>美国军方周一否认也门胡塞运动声称在亚丁湾袭击了美国货船“海洋爵士”号。</description>
-<pubDate>Mon, 22 Jan 2024 17:16:12 GMT</pubDate>
-<guid isPermaLink="false">XAQGWOOBPFOKDMNL7V2NCYIUMY</guid>
-<link>https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-american-military-cargo-ship-gulf-aden-2024-01-22/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Middle East</category>
-</item>
-<item>
-<title>西班牙最高法院裁定大规模驱逐未成年人至摩洛哥非法</title>
-<description>西班牙最高法院周一裁定，2021 年 8 月大规模越境后将数百名摩洛哥青年从西班牙飞地休达驱逐出境是非法的，这对左翼联合政府的移民政策造成了打击。</description>
-<pubDate>Mon, 22 Jan 2024 15:39:37 GMT</pubDate>
-<guid isPermaLink="false">U3VHXOUBHNPATM652RLO6ETIWE</guid>
-<link>https://www.reuters.com/world/spains-top-court-rules-mass-deportation-minors-morocco-was-illegal-2024-01-22/</link>
-<author>Reuters</author>
-<category>World</category>
-</item>
-<item>
 <title>利比里亚总统博阿凯在中暑后恢复职务-总统</title>
 <description>利比里亚总统表示，利比里亚新任总统约瑟夫·博阿凯因中暑而中断了周一的就职演说，现已康复，并已恢复正常活动。</description>
 <pubDate>Mon, 22 Jan 2024 14:45:35 GMT</pubDate>
@@ -160,36 +201,6 @@
 <category>Middle East</category>
 </item>
 <item>
-<title>乌克兰战争推动俄罗斯核思维转变——研究</title>
-<description>一家主要西方智库周一表示，乌克兰战争削弱了俄罗斯对其常规力量的信心，并增加了非战略核武器（NSNW）对莫斯科的重要性，因为它是在未来潜在冲突中威慑和击败北约的手段。</description>
-<pubDate>Mon, 22 Jan 2024 09:04:16 GMT</pubDate>
-<guid isPermaLink="false">Z32DBXHINBLF5POWEKFZSV5P7M</guid>
-<link>https://www.reuters.com/world/europe/ukraine-war-drives-shift-russian-nuclear-thinking-study-2024-01-22/</link>
-<author>Mark Trevelyan</author>
-<category>World</category>
-<category>Europe</category>
-</item>
-<item>
-<title>风暴伊莎袭击了英国的旅行和电力服务</title>
-<description>周一，英国遭受伊莎风暴袭击，铁路网络中断，航班取消，数千户家庭断电。</description>
-<pubDate>Mon, 22 Jan 2024 08:17:09 GMT</pubDate>
-<guid isPermaLink="false">OV2PSUGTYJLQNAWVTEGLHW3AFQ</guid>
-<link>https://www.reuters.com/world/uk/storm-isha-hits-travels-power-services-across-uk-2024-01-22/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>United Kingdom</category>
-</item>
-<item>
-<title>在对限制查阅裁决的计划提出强烈抗议后，中国誓言司法披露</title>
-<description>在限制查阅法院判决的计划遭到律师和法律专家不同寻常的公开批评后，中国最高法院承诺“深化司法公开”。</description>
-<pubDate>Mon, 22 Jan 2024 08:10:02 GMT</pubDate>
-<guid isPermaLink="false">FUAPZ3SLLFO6PGRSOGND5745EE</guid>
-<link>https://www.reuters.com/world/china/china-vows-judicial-disclosure-after-outcry-over-plan-curb-access-rulings-2024-01-22/</link>
-<author>Laurie Chen</author>
-<category>World</category>
-<category>China</category>
-</item>
-<item>
 <title>印度莫迪主持阿约提亚罗摩神庙的开光仪式</title>
 <description>印度总理纳伦德拉·莫迪周一主持了一座供奉印度教主拉姆的宏伟寺庙，该寺庙被认为是拉姆勋爵的出生地，这是为世界上人口最多的国家中印度教徒占多数的国家举行的庆祝活动。</description>
 <pubDate>Mon, 22 Jan 2024 05:59:52 GMT</pubDate>
@@ -198,16 +209,6 @@
 <author>Saurabh Sharma, Rajesh Prabhuswamy</author>
 <category>World</category>
 <category>India</category>
-</item>
-<item>
-<title>是的，特朗普能够赢得 2024 年大选。以下是四个原因</title>
-<description>他曾两次被弹劾，在 2020 年总统选举失败后试图阻止权力的和平移交，在多起刑事案件中面临数十项指控，他的批评者警告他正密谋以独裁者的身份进行统治。然而，唐纳德·特朗普仍然有可能重返白宫。</description>
-<pubDate>Tue, 12 Dec 2023 11:02:45 GMT</pubDate>
-<guid isPermaLink="false">CHWNLOEH4BNOHBQIYEXBMBUAWI</guid>
-<link>https://www.reuters.com/world/us/yes-trump-can-win-2024-election-here-are-four-reasons-why-2023-12-12/</link>
-<author>James Oliphant</author>
-<category>World</category>
-<category>United States</category>
 </item>
 </channel>
 </rss>
