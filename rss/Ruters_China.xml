@@ -13,11 +13,11 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Fri, 26 Jan 2024 13:57:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jan 2024 15:59:15 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
 <title>电动汽车制造商 Polestar 将在全球裁员约 450 人</title>
-<description>瑞典电动汽车制造商 Polestar Automotive Holding 周五表示，由于“市场条件充满挑战”，该公司计划在全球范围内裁员约 450 人，约占其员工总数的 15%。</description>
+<description>瑞典电动汽车制造商 Polestar Automotive Holding 周五表示，由于“市场条件充满挑战”，该公司计划在全球范围内裁员约 450 人，占员工总数的 15% 左右。</description>
 <pubDate>Fri, 26 Jan 2024 13:32:44 GMT</pubDate>
 <guid isPermaLink="false">EPGRKVLAEFNL7DYSBGHHCLVLSQ</guid>
 <link>https://www.reuters.com/business/autos-transportation/electric-vehicle-maker-polestar-cut-around-450-jobs-globally-2024-01-26/</link>
@@ -27,7 +27,7 @@
 </item>
 <item>
 <title>中国恒大集团对母公司提起法律诉讼</title>
-<description>恒大物业服务周五表示，其旗下单位已向广州市中级人民法院对母公司中国恒大和恒大地产等提起法律诉讼。</description>
+<description>恒大物业服务周五表示，其子公司已对母公司中国恒大提起法律诉讼，要求追回114亿元人民币（合15.9亿美元）的存款单质押担保。</description>
 <pubDate>Fri, 26 Jan 2024 13:05:43 GMT</pubDate>
 <guid isPermaLink="false">BFEI5NQA65LURMIS754YRJZRYQ</guid>
 <link>https://www.reuters.com/business/china-evergrande-unit-starts-legal-proceedings-against-parent-2024-01-26/</link>
@@ -83,7 +83,7 @@
 <category>Retail &amp; Consumer</category>
 </item>
 <item>
-<title>无论判决如何，南非的种族灭绝案都是一次外交胜利</title>
+<title>南非种族灭绝案在“诅咒”判决后取得外交胜利</title>
 <description>南非针对以色列的种族灭绝案可能激怒了西方重要贸易伙伴的首都，但它却提升了该国作为受压迫的全球南方国家捍卫者的地位。</description>
 <pubDate>Fri, 26 Jan 2024 09:27:47 GMT</pubDate>
 <guid isPermaLink="false">TNK2FOUWZRK2ZDBRVYKOLONPO4</guid>
@@ -170,6 +170,15 @@
 <category>Asia Pacific</category>
 </item>
 <item>
+<title>白宫沙利文与中国王毅在曼谷讨论台湾与台湾关系</title>
+<description>中美关系和台湾将成为美国国家安全顾问杰克·沙利文和中国外交部长王毅在曼谷举行的会议上讨论的话题，这是世界上最大的两个经济体领导人承诺深化对话的基础。</description>
+<pubDate>Fri, 26 Jan 2024 02:02:19 GMT</pubDate>
+<guid isPermaLink="false">FRSXZQ3CWZPP5IQLNVQGJHH3UQ</guid>
+<link>https://www.reuters.com/world/white-houses-sullivan-meet-with-chinas-foreign-minister-bangkok-2024-01-26/</link>
+<author>Reuters</author>
+<category>World</category>
+</item>
+<item>
 <title>独家：消息人士称，中国敦促伊朗遏制胡塞武装在红海的袭击</title>
 <description>四名伊朗消息人士和一名知情外交官表示，中国官员已要求伊朗同行帮助制止伊朗支持的胡塞武装在红海对船只的袭击，否则可能会损害与北京的商业关系。</description>
 <pubDate>Fri, 26 Jan 2024 01:02:44 GMT</pubDate>
@@ -197,16 +206,6 @@
 <link>https://www.reuters.com/business/china-evergrande-unit-sell-entire-stake-asset-cut-debt-2024-01-25/</link>
 <author>Reuters</author>
 <category>Business</category>
-</item>
-<item>
-<title>意大利揭露与中国影子银行网络有关的19亿美元欺诈案</title>
-<description>意大利警方周四表示，他们发现了一起由 85 名嫌疑人实施的税务欺诈案，涉及 17 亿欧元（19 亿美元）的虚假发票，这些钱是通过所谓的中国影子银行系统进行洗钱的。</description>
-<pubDate>Thu, 25 Jan 2024 13:35:52 GMT</pubDate>
-<guid isPermaLink="false">66XMITEGSBMYTAE64TQ6IJYDHE</guid>
-<link>https://www.reuters.com/business/finance/italy-uncovers-19-bln-fraud-linked-chinese-shadow-bank-network-2024-01-25/</link>
-<author>Reuters</author>
-<category>Business</category>
-<category>Finance</category>
 </item>
 </channel>
 </rss>
