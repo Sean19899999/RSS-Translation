@@ -3,7 +3,7 @@
 <channel>
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
-<atom:link href="https://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest China news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,7 +13,7 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Mon, 29 Jan 2024 18:58:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jan 2024 21:00:11 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
 <title>一名女子因涉嫌从中国欺诈中洗钱 63 亿美元而在伦敦受审</title>
@@ -27,7 +27,7 @@
 </item>
 <item>
 <title>议员们希望美国调查四家参与福特电池厂的中国公司——信函</title>
-<description>据路透社周一看到的一封信函，美国众议院两个委员会的主席要求拜登政府调查四家中国公司，他们称这些公司参与了福特汽车计划中的密歇根电池工厂。</description>
+<description>根据路透社周一看到的一封信，美国众议院两个委员会的主席要求拜登政府调查四家中国公司，他们称这些公司参与了福特汽车计划中的密歇根电池工厂。</description>
 <pubDate>Mon, 29 Jan 2024 17:38:54 GMT</pubDate>
 <guid isPermaLink="false">GB5ORNO4SNOQ7EOS4HPMRIKICY</guid>
 <link>https://www.reuters.com/business/autos-transportation/lawmakers-want-us-probe-four-chinese-firms-involved-ford-battery-plant-letter-2024-01-29/</link>
@@ -115,7 +115,7 @@
 <category>Asian Markets</category>
 </item>
 <item>
-<title>菲律宾否认与中国有“特殊安排”向礁石部队提供补给</title>
+<title>菲律宾否认与中国有“特殊安排”向礁石上的部队提供补给</title>
 <description>菲律宾周一否认中国与马尼拉达成“临时特别安排”，允许向占领南海争议岛礁的菲律宾军队运送物资，称其为“凭空想象”。</description>
 <pubDate>Mon, 29 Jan 2024 08:58:06 GMT</pubDate>
 <guid isPermaLink="false">VLKI3JYFKZIMRG6G2XG7JJKUSA</guid>
@@ -146,7 +146,7 @@
 </item>
 <item>
 <title>内地与香港签署相互承认民商事案件安排</title>
-<description>中国最高法院和香港律政司周一表示，双方签署了《关于两地相互认可和执行民商事案件判决的安排》，立即生效。</description>
+<description>中国最高法院和香港律政司周一表示，双方签署了《关于两地相互承认和执行民商事案件判决的安排》，立即生效。</description>
 <pubDate>Mon, 29 Jan 2024 07:21:44 GMT</pubDate>
 <guid isPermaLink="false">LDM347DUZVLKRBA34TBD4X5P6E</guid>
 <link>https://www.reuters.com/world/china/china-hk-sign-arrangement-reciprocal-recognition-civil-commercial-cases-2024-01-29/</link>
@@ -205,7 +205,7 @@
 <category>Commodities</category>
 </item>
 <item>
-<title>交易商权衡需求担忧与风险溢价，油价下跌</title>
+<title>由于中国需求担忧抵消供应紧张，油价下跌</title>
 <description>导弹击中红海托克运营的一艘油轮后，由于燃料供应担忧，周一油价上涨 1%。</description>
 <pubDate>Mon, 29 Jan 2024 00:03:36 GMT</pubDate>
 <guid isPermaLink="false">UUDXA5UBW5LLJNRNBXUZPO64FQ</guid>
