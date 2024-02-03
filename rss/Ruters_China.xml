@@ -13,8 +13,38 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Sat, 03 Feb 2024 06:16:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Feb 2024 08:16:33 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>中国发射强大的捷龙三号火箭，为更多商业任务铺平道路</title>
+<description>据中国官方媒体报道，一枚小型但强大的中国火箭能够以具有竞争力的成本发送有效载荷，周六将九颗卫星送入轨道，中国商业发射即将迎来又一个忙碌的一年。</description>
+<pubDate>Sat, 03 Feb 2024 07:21:12 GMT</pubDate>
+<guid isPermaLink="false">777HPQGV7ZMBPPDIXIKZBVX5DA</guid>
+<link>https://www.reuters.com/technology/space/china-launches-powerful-jielong-3-rocket-paves-way-more-commercial-missions-2024-02-03/</link>
+<author>Reuters</author>
+<category>Technology</category>
+<category>Space</category>
+</item>
+<item>
+<title>洞察：朝鲜睫毛如何以“中国制造”的身份进入西方</title>
+<description>朝鲜假睫毛的销售额达数百万美元——在世界各地的美容店以“中国制造”的名义销售——去年帮助推动了这个神秘国家的出口复苏。</description>
+<pubDate>Sat, 03 Feb 2024 07:02:52 GMT</pubDate>
+<guid isPermaLink="false">5CBUHRCFONOR5LJWBAJHA455CY</guid>
+<link>https://www.reuters.com/world/asia-pacific/how-north-korean-eyelashes-make-their-way-west-made-china-2024-02-03/</link>
+<author>Ju-Min Park, Eduardo Baptista</author>
+<category>World</category>
+<category>Asia Pacific</category>
+</item>
+<item>
+<title>中国称菲律宾船只“非法”登陆有争议的环礁</title>
+<description>中国周六表示，一艘来自菲律宾的小型民用船只“非法停泊在两国声称拥有主权的南海环礁的海滩上”。</description>
+<pubDate>Sat, 03 Feb 2024 06:29:24 GMT</pubDate>
+<guid isPermaLink="false">TALNEI7CLFMAFHVZ34WFLCZ6EI</guid>
+<link>https://www.reuters.com/world/asia-pacific/china-says-philippine-vessel-illegally-landed-disputed-atoll-2024-02-03/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Asia Pacific</category>
+</item>
 <item>
 <title>中国吉利发射11颗用于自动驾驶汽车的低轨卫星</title>
 <description>中国汽车制造商吉利控股集团周六表示，已发射 11 颗近地轨道卫星，这是其第二次发射，以扩大为自动驾驶汽车提供更准确导航的能力。</description>
@@ -159,36 +189,6 @@
 <category>World</category>
 </item>
 <item>
-<title>旅游业复苏，香港 12 月零售额增长 7.8%</title>
-<description>周四官方数据显示，由于旅游业持续改善，香港 12 月份零售额连续 13 个月增长。</description>
-<pubDate>Thu, 01 Feb 2024 09:42:21 GMT</pubDate>
-<guid isPermaLink="false">JMR36YW5PROA7H3IDVYDCPRTGI</guid>
-<link>https://www.reuters.com/markets/asia/hong-kong-dec-retail-sales-up-78-tourism-recovers-2024-02-01/</link>
-<author>Reuters</author>
-<category>Markets</category>
-<category>Asian Markets</category>
-</item>
-<item>
-<title>台湾选出议会议长执政党观点亲中</title>
-<description>台湾议会周四选举最大反对党的前总统候选人为新议长，他将负责接待来访的外国议员，执政党称他是亲中国的。</description>
-<pubDate>Thu, 01 Feb 2024 08:26:17 GMT</pubDate>
-<guid isPermaLink="false">K6JU5VFH2VKXJCOHI36XCVT4YQ</guid>
-<link>https://www.reuters.com/world/asia-pacific/taiwan-elects-parliament-speaker-ruling-party-views-pro-china-2024-02-01/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Asia Pacific</category>
-</item>
-<item>
-<title>香港法院以2019年冲击立法会后骚乱罪判处四人有罪</title>
-<description>周四，香港一家法院认定四人犯有 2019 年民主抗议活动期间冲击金融中心立法机关后发生的骚乱罪，另外八人也承认了对该事件的指控。</description>
-<pubDate>Thu, 01 Feb 2024 03:11:14 GMT</pubDate>
-<guid isPermaLink="false">GPQSQ3S2HVJP5DNB3EXSCBAM4M</guid>
-<link>https://www.reuters.com/world/china/hong-kong-court-convicts-four-rioting-after-2019-legislature-storming-2024-02-01/</link>
-<author>Jessie Pang, Edward Cho</author>
-<category>World</category>
-<category>China</category>
-</item>
-<item>
 <title>中国承诺坚持财政扩张以刺激经济</title>
 <description>财政部副部长王东伟周四表示，中国今年将维持财政扩张，以刺激经济复苏，这强化了市场观点，即公共支出将是政府拉动经济增长的主要工具。</description>
 <pubDate>Thu, 01 Feb 2024 03:00:02 GMT</pubDate>
@@ -200,7 +200,7 @@
 </item>
 <item>
 <title>中国房地产业的下滑可能正在放缓，但尚未复苏</title>
-<description>根据最近的政府数据和一项调查，中国新房价格以近 2-1/2 年来最快的月度涨幅，政府土地销售结束了 23 个月的低迷，这表明陷入困境的房地产行业的下降速度可能是慢下来。</description>
+<description>根据最近的政府数据和一项调查，中国新房价格以近 2-1/2 年来最快的月度涨幅，政府土地销售结束了 23 个月的低迷，这表明陷入困境的房地产行业的下降速度可能会有所放缓。慢下来。</description>
 <pubDate>Thu, 01 Feb 2024 02:39:57 GMT</pubDate>
 <guid isPermaLink="false">PZYHZ36VSFMJHOQIAAWU45VD3M</guid>
 <link>https://www.reuters.com/world/china/china-jan-new-home-prices-rise-fastest-pace-since-aug-2021-private-survey-2024-02-01/</link>
