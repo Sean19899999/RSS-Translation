@@ -13,7 +13,7 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Mon, 05 Feb 2024 13:12:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Feb 2024 15:16:22 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
 <title>分析师预计稀土价格将在 2024 年下半年反弹</title>
@@ -47,7 +47,7 @@
 </item>
 <item>
 <title>独家：随着股市暴跌，中国券商限制跨境互换--消息人士</title>
-<description>据六位知情人士透露，为了捍卫疲软的股市，包括国有巨头中国国际金融公司（中金公司）在内的中国券商限制了国内投资者可以进行的跨境掉期交易金额。</description>
+<description>据六位知情人士透露，包括国有巨头中国国际金融公司（中金公司）在内的中国券商已限制国内投资者可以进行的跨境掉期交易金额，因为当局试图捍卫疲软的股市。</description>
 <pubDate>Mon, 05 Feb 2024 12:20:06 GMT</pubDate>
 <guid isPermaLink="false">ZCJNGCKLJFLOXC6K7MX63KCFZA</guid>
 <link>https://www.reuters.com/world/china/chinese-brokers-restrict-cross-border-swaps-stocks-plunge-sources-2024-02-05/</link>
@@ -64,6 +64,16 @@
 <author>Kirsty Needham</author>
 <category>World</category>
 <category>Asia Pacific</category>
+</item>
+<item>
+<title>雅诗兰黛因中国经济复苏延迟而裁员；股价飙升16%</title>
+<description>化妆品巨头雅诗兰黛周一表示，将在全球裁员约 3% 至 5%，以加大力度提振利润率，因为其中国业务的复苏需要比预期更长的时间。</description>
+<pubDate>Mon, 05 Feb 2024 11:49:31 GMT</pubDate>
+<guid isPermaLink="false">GX77M3XFPBOHTFJN2HZMRNHGX4</guid>
+<link>https://www.reuters.com/business/retail-consumer/estee-lauder-slashes-annual-profit-forecast-cut-jobs-2024-02-05/</link>
+<author>Ananya Mariam Rajesh</author>
+<category>Business</category>
+<category>Retail &amp; Consumer</category>
 </item>
 <item>
 <title>美国法案对药明康德及其西方制药商合作伙伴构成风险</title>
@@ -87,7 +97,7 @@
 </item>
 <item>
 <title>为什么以 52 亿美元出售俄罗斯 Yandex 意义重大</title>
-<description>经过数月的谈判后，周一宣布了一项价值 52 亿美元的现金加股票交易，将科技集团 Yandex（通常被称为“俄罗斯的谷歌”）的俄罗斯关键资产出售给俄罗斯投资者财团。</description>
+<description>经过数月的谈判后，周一宣布了一项价值 52 亿美元的现金和股票交易，将科技集团 Yandex（通常被称为“俄罗斯的谷歌”）的俄罗斯关键资产出售给俄罗斯投资者财团。</description>
 <pubDate>Mon, 05 Feb 2024 10:46:51 GMT</pubDate>
 <guid isPermaLink="false">HF7YI726MFJMVGWCV73DAYW2H4</guid>
 <link>https://www.reuters.com/markets/deals/why-52-bln-sale-russias-yandex-is-significant-2024-02-05/</link>
@@ -96,7 +106,7 @@
 <category>Deals</category>
 </item>
 <item>
-<title>AI芯片需求迫使华为放缓智能手机生产——消息人士</title>
+<title>独家：AI芯片需求迫使华为放缓智能手机生产</title>
 <description>对华为人工智能芯片的需求飙升，加上制造限制，迫使这家中国科技巨头优先考虑人工智能，并放慢了其高端 Mate 60 手机的生产速度。</description>
 <pubDate>Mon, 05 Feb 2024 08:56:10 GMT</pubDate>
 <guid isPermaLink="false">ESESJTBBJBP7VJGHQMDZFGQR54</guid>
@@ -126,7 +136,7 @@
 </item>
 <item>
 <title>为什么中国国家队无法拯救不断恶化的市场</title>
-<description>国家支持的买盘可能连续第二天将中国股市从多年低点拉升。投资者怀疑这种支持能否持续，并警告称这会导致市场失衡和不稳定。</description>
+<description>国家支持的买盘可能连续第二天将中国股市从多年低点拉升。投资者怀疑这种支持能否持续，并警告称这将导致市场失衡和不稳定。</description>
 <pubDate>Mon, 05 Feb 2024 08:21:14 GMT</pubDate>
 <guid isPermaLink="false">32QOZ5XDYZNTBAK3K3EJAQMPGM</guid>
 <link>https://www.reuters.com/markets/asia/why-chinas-national-team-wont-save-spiralling-markets-2024-02-05/</link>
@@ -202,16 +212,6 @@
 <author>Wayne Cole, Stella Qiu</author>
 <category>Markets</category>
 <category>Macro Matters</category>
-</item>
-<item>
-<title>澳大利亚作家死刑缓刑威胁中澳关系反弹</title>
-<description>北京一家法院周一判处澳大利亚作家杨恒均死刑缓期执行，并威胁在北京与堪培拉之间多年紧张关系之后，双边关系近期将出现反弹。</description>
-<pubDate>Mon, 05 Feb 2024 05:34:29 GMT</pubDate>
-<guid isPermaLink="false">FZWK4JOA4JP3VEHMMJBUVLSIVU</guid>
-<link>https://www.reuters.com/world/asia-pacific/australia-china-rebound-ties-threatened-by-death-sentence-australian-writer-2024-02-05/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Asia Pacific</category>
 </item>
 </channel>
 </rss>
