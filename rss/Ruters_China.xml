@@ -3,7 +3,7 @@
 <channel>
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
-<atom:link href="http://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
+<atom:link href="https://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest China news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,8 +13,28 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Sat, 10 Feb 2024 00:55:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Feb 2024 05:00:46 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>台湾报道新年假期开始时出现中国气球</title>
+<description>台湾国防部周六表示，在过去 24 小时内发现了 8 个中国气球穿越台湾海峡，其中两个气球飞越台湾岛，农历新年假期开始时活动有所增加。</description>
+<pubDate>Sat, 10 Feb 2024 01:12:13 GMT</pubDate>
+<guid isPermaLink="false">LTQXVQOS6BL2PJKNPUFAEG2NFI</guid>
+<link>https://www.reuters.com/world/asia-pacific/taiwan-reports-eight-chinese-balloons-crossing-taiwan-strait-2024-02-10/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Asia Pacific</category>
+</item>
+<item>
+<title>乌克兰援助法案在美国参议院取得进展</title>
+<description>美国参议院周五接近通过一项法案，其中包括向乌克兰、以色列和台湾提供953.4亿美元的援助，但由于参众两院共和党的反对，该法案的成为法律面临着不确定的道路。</description>
+<pubDate>Sat, 10 Feb 2024 01:02:26 GMT</pubDate>
+<guid isPermaLink="false">333GSCT2PNK75P3IUVDY2CLLPM</guid>
+<link>https://www.reuters.com/world/us/ukraine-aid-bill-inches-forward-us-senate-2024-02-10/</link>
+<author>David Morgan</author>
+<category>World</category>
+<category>United States</category>
+</item>
 <item>
 <title>TikTok 输掉了暂停欧盟看门人地位的法庭诉讼</title>
 <description>字节跳动旗下的 TikTok 在暂停被指定为看门人的申请中失败，这使其根据欧盟规则承担繁重的义务，此前欧洲第二最高法院驳回了其请求，因为它未能表现出采取这一举措的紧迫性。</description>
@@ -26,7 +46,7 @@
 </item>
 <item>
 <title>巴伦在卡塔尔​​凭借后九洞的出色表现取得领先</title>
-<description>海顿·巴伦在周五的卡塔尔大师赛第二轮比赛后，在后九洞抓到 5 只小鸟，打出低于标准杆 5 杆的 67 杆，领先两杆。</description>
+<description>海顿·巴伦 (Haydn Barron) 在后九洞抓到 5 只小鸟，打出 67 杆，低于标准杆 5 杆，在周五的卡塔尔大师赛第二轮比赛后取得两杆领先。</description>
 <pubDate>Fri, 09 Feb 2024 15:57:20 GMT</pubDate>
 <guid isPermaLink="false">QR3YIRTMIVMEFG5C2MLP2TN4HE</guid>
 <link>https://www.reuters.com/sports/golf/barron-takes-lead-qatar-with-blistering-back-nine-2024-02-09/</link>
@@ -54,7 +74,7 @@
 <category>Society &amp; Equity</category>
 </item>
 <item>
-<title>美银美林：投资者在本周至周三抛售美国股票，买入中国股票</title>
+<title>美银美林投资者在本周至周三抛售美国股票，买入中国股票</title>
 <description>美国银行周五援引 EPFR 数据称，截至周三的一周内，投资者抛售美国股票和房地产股票，买入中国股票，称资金流入中国可能是由中国公共基金推动的。</description>
 <pubDate>Fri, 09 Feb 2024 12:25:06 GMT</pubDate>
 <guid isPermaLink="false">UKCUVJZU2RPQLEWRSAATBVRLHI</guid>
@@ -75,7 +95,7 @@
 </item>
 <item>
 <title>资生堂利润下滑，中国消费者低迷又成为受害者</title>
-<description>周五，资生堂成为中国经济放缓的最新受害者，这家日本化妆品制造商的年收益下滑了 40%，这对许多全球消费品公司的盈利造成了打击。</description>
+<description>上周五，资生堂成为中国经济放缓的最新受害者，这家日本化妆品制造商报告称，其年收益下滑了 40%，中国经济放缓已经打击了许多全球消费品公司的盈利。</description>
 <pubDate>Fri, 09 Feb 2024 08:45:16 GMT</pubDate>
 <guid isPermaLink="false">XLIPPJXMKVPWRCVJ6HIXWFMJAM</guid>
 <link>https://www.reuters.com/business/retail-consumer/chinas-consumer-slump-claims-another-victim-shiseido-profit-slides-2024-02-09/</link>
@@ -125,7 +145,7 @@
 </item>
 <item>
 <title>百度与联想达成第三笔中国人工智能智能手机交易</title>
-<description>中国的百度与联想合作，将其生成式人工智能（AI）技术应用到联想的智能手机上，这是与手机制造商的最新合作，旨在为其人工智能模型寻求实际应用。</description>
+<description>中国的百度与联想合作，在联想的智能手机上展示其生成式人工智能（AI）技术，这是与一家手机制造商的最新合作，旨在为其人工智能模型寻求实际应用。</description>
 <pubDate>Fri, 09 Feb 2024 05:48:29 GMT</pubDate>
 <guid isPermaLink="false">LTCDAPW5LBNZBCP4I3X6NSHXVU</guid>
 <link>https://www.reuters.com/technology/baidu-partners-with-lenovo-third-china-ai-smartphone-deal-2024-02-09/</link>
@@ -190,26 +210,6 @@
 <author>Reuters</author>
 <category>Sustainability</category>
 <category>Boards, Policy &amp; Regulation</category>
-</item>
-<item>
-<title>市场摆脱通胀修正数据影响，美元走软</title>
-<description>美元周五走软，连续第四周上涨，而交易员则减少了对日本央行加息速度以及美联储降息速度的押注。</description>
-<pubDate>Fri, 09 Feb 2024 01:42:49 GMT</pubDate>
-<guid isPermaLink="false">OZD3OR7RI5MWJHZTHTTTEGXRK4</guid>
-<link>https://www.reuters.com/markets/currencies/yen-near-10-week-low-dollar-buoyant-traders-adjust-rate-bets-2024-02-09/</link>
-<author>Herbert Lash, Amanda Cooper</author>
-<category>Markets</category>
-<category>Currencies</category>
-</item>
-<item>
-<title>泰国、马来西亚、新加坡希望通过免签旅游吸引中国人</title>
-<description>中国工程师兼航空爱好者魏猛正是新加坡、马来西亚和泰国旅游部门正在寻找的游客。</description>
-<pubDate>Fri, 09 Feb 2024 01:10:43 GMT</pubDate>
-<guid isPermaLink="false">UFMPX2ZVH5JQ3EOJ6RMEPAUMVU</guid>
-<link>https://www.reuters.com/world/asia-pacific/thailand-malaysia-singapore-hope-lure-chinese-with-visa-free-travel-2024-02-09/</link>
-<author>Xinghui Kok, Lisa Barrington, Orathai Sriring</author>
-<category>World</category>
-<category>Asia Pacific</category>
 </item>
 </channel>
 </rss>
