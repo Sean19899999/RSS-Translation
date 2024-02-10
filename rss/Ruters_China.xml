@@ -3,7 +3,7 @@
 <channel>
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
-<atom:link href="https://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest China news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -17,7 +17,7 @@
 <ttl>120</ttl>
 <item>
 <title>TikTok 输掉了暂停欧盟看门人地位的法庭诉讼</title>
-<description>字节跳动旗下的 TikTok 在暂停被指定为看门人的申请中失败，这使其根据欧盟规则承担繁重的义务，此前欧洲第二最高法院因未能表现出采取这一举措的紧迫性而驳回了其请求。</description>
+<description>字节跳动旗下的 TikTok 在暂停被指定为看门人的申请中失败，这使其根据欧盟规则承担繁重的义务，此前欧洲第二最高法院驳回了其请求，因为它未能表现出采取这一举措的紧迫性。</description>
 <pubDate>Fri, 09 Feb 2024 15:58:19 GMT</pubDate>
 <guid isPermaLink="false">JYIZ5JHXUFMGZI3U25BMNDWM2E</guid>
 <link>https://www.reuters.com/technology/eu-court-dismisses-bytedances-appeal-against-gatekeeper-status-2024-02-09/</link>
@@ -54,7 +54,7 @@
 <category>Society &amp; Equity</category>
 </item>
 <item>
-<title>美银美林投资者在本周至周三抛售美国股票，买入中国股票</title>
+<title>美银美林：投资者在本周至周三抛售美国股票，买入中国股票</title>
 <description>美国银行周五援引 EPFR 数据称，截至周三的一周内，投资者抛售美国股票和房地产股票，买入中国股票，称资金流入中国可能是由中国公共基金推动的。</description>
 <pubDate>Fri, 09 Feb 2024 12:25:06 GMT</pubDate>
 <guid isPermaLink="false">UKCUVJZU2RPQLEWRSAATBVRLHI</guid>
@@ -65,7 +65,7 @@
 </item>
 <item>
 <title>菲律宾称与美国在南海举行联合演习</title>
-<description>菲律宾军方表示，菲律宾和美国周五在南中国海举行了联合海上演习，最新一轮演习凸显了两国防务关系的持续扩展。</description>
+<description>菲律宾军方表示，菲律宾和美国周五在南海举行了联合海上演习，最新一轮演习凸显了两国防务关系的持续扩展。</description>
 <pubDate>Fri, 09 Feb 2024 11:20:48 GMT</pubDate>
 <guid isPermaLink="false">4GGJZFVJGFPMLA6YZQ4YPPODXQ</guid>
 <link>https://www.reuters.com/world/asia-pacific/philippines-says-joint-exercises-held-with-us-s-china-sea-2024-02-09/</link>
@@ -75,7 +75,7 @@
 </item>
 <item>
 <title>资生堂利润下滑，中国消费者低迷又成为受害者</title>
-<description>上周五，资生堂成为中国经济放缓的最新受害者，这家日本化妆品制造商报告称，其年收益下滑了 40%，中国经济放缓已经打击了许多全球消费品公司的盈利。</description>
+<description>周五，资生堂成为中国经济放缓的最新受害者，这家日本化妆品制造商的年收益下滑了 40%，这对许多全球消费品公司的盈利造成了打击。</description>
 <pubDate>Fri, 09 Feb 2024 08:45:16 GMT</pubDate>
 <guid isPermaLink="false">XLIPPJXMKVPWRCVJ6HIXWFMJAM</guid>
 <link>https://www.reuters.com/business/retail-consumer/chinas-consumer-slump-claims-another-victim-shiseido-profit-slides-2024-02-09/</link>
