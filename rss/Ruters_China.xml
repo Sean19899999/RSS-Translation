@@ -13,8 +13,17 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Mon, 12 Feb 2024 14:05:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Feb 2024 16:06:15 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>比特币创两年多来新高</title>
+<description>周一，比特币上涨 4%，至 49,477.75 美元，创 2021 年 12 月以来最高水平。</description>
+<pubDate>Mon, 12 Feb 2024 15:40:55 GMT</pubDate>
+<guid isPermaLink="false">MBQ2C2PVHZMRRIHTUPPBROLFZY</guid>
+<link>https://www.reuters.com/technology/bitcoin-hits-highest-more-than-two-years-2024-02-12/</link>
+<author>Reuters</author>
+<category>Technology</category>
+</item>
 <item>
 <title>早盘竞价：5,000 个乐观的理由</title>
 <description>阿曼达·库珀 (Amanda Cooper) 对美国和全球市场未来一天的展望。</description>
@@ -43,12 +52,12 @@
 <category>Markets</category>
 </item>
 <item>
-<title>美元上涨，美国通胀数据成为本周的焦点</title>
-<description>美元周一小幅走高，因为大多数主要亚洲市场的假期抑制了可能会变得忙碌的一周的开始，所有人都在关注美国通胀数据，以寻找美联储何时可能开始降息的线索。</description>
+<title>市场等待美国通胀数据，美元上涨</title>
+<description>美元兑欧元和其他主要货币周一小幅走高，因投资者等待本周美国通胀和零售销售数据，以寻找美联储何时可能开始普遍预期的降息的线索。</description>
 <pubDate>Mon, 12 Feb 2024 09:08:14 GMT</pubDate>
 <guid isPermaLink="false">OFPXVNSE2NJBDP3YSORS2LKBQI</guid>
 <link>https://www.reuters.com/markets/currencies/dollar-steady-us-inflation-data-tops-this-weeks-bill-2024-02-12/</link>
-<author>Alun John</author>
+<author>Herbert Lash, Alun John</author>
 <category>Markets</category>
 <category>Currencies</category>
 </item>
@@ -198,15 +207,6 @@
 <author>Kane Wu, Selena Li</author>
 <category>World</category>
 <category>Asia Pacific</category>
-</item>
-<item>
-<title>百度与联想达成第三笔中国人工智能智能手机交易</title>
-<description>中国的百度与联想合作，将其生成式人工智能（AI）技术应用到联想的智能手机上，这是与手机制造商的最新合作，旨在为其人工智能模型寻求实际应用。</description>
-<pubDate>Fri, 09 Feb 2024 05:48:29 GMT</pubDate>
-<guid isPermaLink="false">LTCDAPW5LBNZBCP4I3X6NSHXVU</guid>
-<link>https://www.reuters.com/technology/baidu-partners-with-lenovo-third-china-ai-smartphone-deal-2024-02-09/</link>
-<author>Josh Ye</author>
-<category>Technology</category>
 </item>
 </channel>
 </rss>
