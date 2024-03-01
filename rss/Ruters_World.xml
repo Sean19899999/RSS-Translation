@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,17 +13,57 @@
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
 </image>
-<lastBuildDate>Fri, 01 Mar 2024 04:42:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Mar 2024 09:15:53 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
-<title>韩国尹表示，改善日本关系有助于遏制朝鲜威胁</title>
-<description>韩国总统尹锡烈周五表示，改善与日本的关系有助于应对平壤武器开发的威胁，并呼吁国际社会帮助实现与朝鲜的统一。</description>
-<pubDate>Fri, 01 Mar 2024 03:44:19 GMT</pubDate>
-<guid isPermaLink="false">CJN46T4XF5MMRNKPNWIATL54EE</guid>
-<link>https://www.reuters.com/world/asia-pacific/south-koreas-yoon-says-better-japan-ties-helping-deter-north-korea-threat-2024-03-01/</link>
+<title>马来西亚恢复对外国船舶进行海底电缆维修的沿海航行豁免</title>
+<description>马来西亚交通部长安东尼洛克表示，马来西亚周五恢复了沿海航行政策的豁免，允许外国船只在其水域修复海底电缆，并补充说政府希望使这一举措永久化。</description>
+<pubDate>Fri, 01 Mar 2024 07:49:32 GMT</pubDate>
+<guid isPermaLink="false">VYRIANE4LZN33F4OUL2ZFXNB3I</guid>
+<link>https://www.reuters.com/world/asia-pacific/malaysia-reinstates-cabotage-waiver-foreign-ships-undersea-cable-repair-2024-03-01/</link>
 <author>Reuters</author>
 <category>World</category>
 <category>Asia Pacific</category>
+</item>
+<item>
+<title>中国人大将于下周推出更多刺激措施，但不太可能进行大胆改革</title>
+<description>预计中国人大将在周二开始的年度会议上公布温和的刺激计划，以稳定增长，但可能会让那些呼吁制定大胆政策详细路线图以解决该国深度结构性失衡的人失望。</description>
+<pubDate>Fri, 01 Mar 2024 06:10:37 GMT</pubDate>
+<guid isPermaLink="false">5BJFCA57N5MILBHXB5HZY3QVIA</guid>
+<link>https://www.reuters.com/world/china/chinas-parliament-unveil-more-stimulus-next-week-bold-reforms-unlikely-2024-03-01/</link>
+<author>Kevin Yao</author>
+<category>World</category>
+<category>China</category>
+</item>
+<item>
+<title>新加坡空军将增加更多隐形战斗机，逐步淘汰旧式飞机</title>
+<description>新加坡国防部长本周表示，随着地区威胁的加剧，新加坡将再购买 8 架 F-35 隐形战斗机，最终取代其较旧的 F-16 战斗机，并使新加坡空军跻身“顶级联赛”。</description>
+<pubDate>Fri, 01 Mar 2024 06:09:58 GMT</pubDate>
+<guid isPermaLink="false">BYTH2TPWAJIKLIYOWGSU2D6ZHM</guid>
+<link>https://www.reuters.com/world/asia-pacific/singapores-air-force-add-more-stealth-fighters-it-phases-out-older-jets-2024-03-01/</link>
+<author>Gerry Doyle</author>
+<category>World</category>
+<category>Asia Pacific</category>
+</item>
+<item>
+<title>孟加拉国重大工业事故发生的原因是什么？</title>
+<description>孟加拉国首都达卡一家印度香饭餐厅发生大火，烧毁一栋六层建筑，造成至少 44 人死亡、22 人重伤。</description>
+<pubDate>Fri, 01 Mar 2024 05:21:58 GMT</pubDate>
+<guid isPermaLink="false">DGXMF6WSANMSXB2YKUCNBGX3L4</guid>
+<link>https://www.reuters.com/world/asia-pacific/what-causes-bangladeshs-major-industrial-accidents-2024-03-01/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Asia Pacific</category>
+</item>
+<item>
+<title>俄新社称，俄罗斯准备将坠机遇难者遗体移交给乌克兰</title>
+<description>俄新社周五援引俄罗斯人权官员塔季扬娜·莫斯科科娃的话称，俄罗斯准备向乌克兰移交一月军机失事遇难者的遗体。</description>
+<pubDate>Fri, 01 Mar 2024 05:02:43 GMT</pubDate>
+<guid isPermaLink="false">AABSTWSZSVJWZDKUMKVH7EOECA</guid>
+<link>https://www.reuters.com/world/europe/russia-ready-hand-over-crash-victims-bodies-ukraine-ria-says-2024-03-01/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Europe</category>
 </item>
 <item>
 <title>在工党的目光下，左翼加洛韦在英国小镇获胜</title>
@@ -56,62 +96,12 @@
 <category>Climate &amp; Energy</category>
 </item>
 <item>
-<title>随着不满情绪的加剧，强硬派将加强对伊朗投票的控制</title>
-<description>伊朗周五将选出新议会，此次投票将考验该国强硬的神职统治者的受欢迎程度，公众对经济困境以及对政治和社会自由的限制的不满情绪日益高涨，这将使许多伊朗人留在国内。</description>
+<title>伊朗统治者在不满情绪日益高涨的情况下寻求选举中的高投票率</title>
+<description>伊朗人周五投票选出了新议会，这被视为在人们对经济困境以及政治和社会自由受到限制日益不满之际对宗教机构合法性的考验。</description>
 <pubDate>Fri, 01 Mar 2024 01:47:38 GMT</pubDate>
 <guid isPermaLink="false">MMCNQGH3HFMZXJ6O332A4CAW3M</guid>
 <link>https://www.reuters.com/world/middle-east/hardliners-set-tighten-grip-iran-vote-frustration-mounts-2024-03-01/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Middle East</category>
-</item>
-<item>
-<title>新西兰法院因致命火山喷发下令处以数百万美元的罚款和赔偿</title>
-<description>周五，新西兰一家法院下令火山喷发造成 22 人死亡的岛屿的旅游预订代理商和管理人员向幸存者支付超过 1000 万新西兰元（合 610 万美元），并对他们处以约 260 万新西兰元的罚款。</description>
-<pubDate>Fri, 01 Mar 2024 01:46:31 GMT</pubDate>
-<guid isPermaLink="false">Q3UZFXP3Q5KJ7PY5JRN2XV2VBM</guid>
-<link>https://www.reuters.com/world/asia-pacific/new-zealand-court-orders-millions-fines-compensation-over-deadly-volcanic-2024-03-01/</link>
-<author>Reuters</author>
-<category>Business</category>
-<category>Environment</category>
-</item>
-<item>
-<title>报告称越南计划打击工人权利和对外援助</title>
-<description>据一个倡导组织称，在越南准备扩大工人权利之际，执政的共产党已指示官员控制工会，同时密切监视外国组织和出国旅行的公民。</description>
-<pubDate>Fri, 01 Mar 2024 01:06:35 GMT</pubDate>
-<guid isPermaLink="false">MELAA5ZG7RKBZD5C5KOGJZ27PI</guid>
-<link>https://www.reuters.com/world/asia-pacific/vietnam-eyes-crackdown-workers-rights-foreign-aid-report-says-2024-03-01/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Asia Pacific</category>
-</item>
-<item>
-<title>联合国秘书长表示加沙屠杀事件可能需要独立调查</title>
-<description>联合国秘书长安东尼奥·古特雷斯周四表示，100 多名在加沙寻求人道主义援助的人被杀，需要对此事件进行有效的独立调查。</description>
-<pubDate>Fri, 01 Mar 2024 00:55:45 GMT</pubDate>
-<guid isPermaLink="false">OTTHFC4RLNPBJFZ66PWRY2BCCM</guid>
-<link>https://www.reuters.com/world/middle-east/un-chief-says-gaza-killing-could-require-independent-investigation-2024-03-01/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Middle East</category>
-</item>
-<item>
-<title>一些美国议员敦促拜登、布林肯不要承认巴基斯坦新政府</title>
-<description>三十一名美国国会议员签署了一封致总统乔·拜登和国务卿安东尼·布林肯的信，敦促他们在对选举干预行为进行调查之前不要承认巴基斯坦新政府。</description>
-<pubDate>Fri, 01 Mar 2024 00:39:17 GMT</pubDate>
-<guid isPermaLink="false">3J4UT6SBNZM33LHF4K67C4DLVI</guid>
-<link>https://www.reuters.com/world/asia-pacific/some-us-lawmakers-urge-biden-blinken-not-recognize-new-pakistan-government-2024-03-01/</link>
-<author>Kanishka Singh</author>
-<category>World</category>
-<category>Asia Pacific</category>
-</item>
-<item>
-<title>美国称其袭击了对红海船只构成威胁的导弹和无人机</title>
-<description>美国军方表示，周四对六枚移动反舰巡航导弹和一架对红海船只构成威胁的无人机进行了袭击。</description>
-<pubDate>Fri, 01 Mar 2024 00:30:45 GMT</pubDate>
-<guid isPermaLink="false">YSJ4L5FBNBPMRKXYFYH66LAIC4</guid>
-<link>https://www.reuters.com/world/middle-east/us-says-it-struck-missiles-drone-that-posed-threat-red-sea-ships-2024-03-01/</link>
-<author>Reuters</author>
+<author>Parisa Hafezi</author>
 <category>World</category>
 <category>Middle East</category>
 </item>
@@ -126,26 +116,6 @@
 <category>Europe</category>
 </item>
 <item>
-<title>美国自由贸易协定推动者、加拿大前总理马尔罗尼去世，享年 84 岁</title>
-<description>加拿大前总理布莱恩·马尔罗尼去世，他与美国达成了自由贸易协议，但他的遗产因与军火商进行不当商业交易的曝光而受到损害。</description>
-<pubDate>Thu, 29 Feb 2024 23:43:54 GMT</pubDate>
-<guid isPermaLink="false">X24EA43KZFIZRCY3GMRV47A6AQ</guid>
-<link>https://www.reuters.com/world/americas/former-canada-pm-brian-mulroney-has-died-his-daughter-says-x-2024-02-29/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Americas</category>
-</item>
-<item>
-<title>海地总理承诺 2025 年举行选举 加共体将派出团队</title>
-<description>加勒比共同体（CARICOM）周四在圭亚那区域峰会结束一天后发表声明称，海地总理阿里尔·亨利已承诺在明年 8 月 31 日之前举行大选。</description>
-<pubDate>Thu, 29 Feb 2024 23:17:59 GMT</pubDate>
-<guid isPermaLink="false">FQLK2CHYPVMDPN6DYHUOONMEEI</guid>
-<link>https://www.reuters.com/world/americas/haiti-pm-commits-elections-by-2025-caricom-send-team-2024-02-29/</link>
-<author>Sarah Morland</author>
-<category>World</category>
-<category>Americas</category>
-</item>
-<item>
 <title>美国参议院否决阻止向土耳其出售F-16战斗机的提议</title>
 <description>美国参议院周四彻底否决了阻止向土耳其出售价值 230 亿美元的 F-16 战斗机和现代化套件的努力，在土耳其批准瑞典加入北约联盟后，乔·拜登总统的政府批准了这项计划。</description>
 <pubDate>Thu, 29 Feb 2024 21:23:42 GMT</pubDate>
@@ -155,8 +125,18 @@
 <category>World</category>
 </item>
 <item>
-<title>孟加拉国建筑火灾造成至少43人死亡、数十人受伤</title>
-<description>孟加拉国卫生部长表示，昨晚，孟加拉国首都达卡一座六层建筑发生大火，已造成至少 43 人死亡、数十人受伤。</description>
+<title>以色列内塔尼亚胡表示，他将为征召极端正统派铺平道路</title>
+<description>总理本杰明·内塔尼亚胡周四表示，面对威胁其狭隘联盟未来的政治压力，他的政府将找到一种方法，终止极端正统犹太人在以色列服兵役的豁免。</description>
+<pubDate>Thu, 29 Feb 2024 20:55:18 GMT</pubDate>
+<guid isPermaLink="false">AFGXFUNDFBMXHE47WMWXTV2OD4</guid>
+<link>https://www.reuters.com/world/middle-east/israels-netanyahu-says-he-will-pave-way-conscript-ultra-orthodox-2024-02-29/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
+<item>
+<title>孟加拉国建筑火灾造成46人死亡、数十人受伤</title>
+<description>孟加拉国卫生部长周五表示，一场大火烧毁了一座六层楼的建筑，该建筑内有许多带着孩子的家庭正在就餐的餐馆，已造成至少 46 人死亡，数十人受伤。</description>
 <pubDate>Thu, 29 Feb 2024 20:38:54 GMT</pubDate>
 <guid isPermaLink="false">KKSLZ2TRPBKZVDIYOSJTKAACDQ</guid>
 <link>https://www.reuters.com/world/asia-pacific/fire-kills-43-bangladesh-capital-afp-reports-2024-02-29/</link>
@@ -165,23 +145,34 @@
 <category>Asia Pacific</category>
 </item>
 <item>
-<title>G20财长在加沙和乌克兰辩论中未能达成联合声明</title>
-<description>全球最大经济体的财长在周四结束会谈时未能就联合声明达成一致，加沙和乌克兰战争的分歧掩盖了就全球经济发展达成共识的努力。</description>
-<pubDate>Thu, 29 Feb 2024 17:11:06 GMT</pubDate>
-<guid isPermaLink="false">RFBL3WUULFNAJC7PMQQAQF3UX4</guid>
-<link>https://www.reuters.com/world/g20-finance-leaders-still-odds-over-language-gaza-ukraine-sources-2024-02-29/</link>
-<author>Marcela Ayres, Christian Kraemer</author>
+<title>总理访问肯尼亚期间暴力事件震撼海地</title>
+<description>周四，随着暴力事件和猛烈枪声的爆发，一波恐慌席卷了太子港市中心，一名帮派头目称这是一场针对当局的示威活动。</description>
+<pubDate>Thu, 29 Feb 2024 20:14:40 GMT</pubDate>
+<guid isPermaLink="false">6FDT5SEXCBKHXIUGRK72EGRHVE</guid>
+<link>https://www.reuters.com/world/americas/gang-violence-sparks-haiti-prime-minister-visits-kenya-2024-02-29/</link>
+<author>Harold Isaac</author>
 <category>World</category>
+<category>Americas</category>
 </item>
 <item>
-<title>独家：总理表示，加沙战斗的停止将引发黎巴嫩停火谈判</title>
-<description>黎巴嫩看守总理纳吉布·米卡提周四表示，加沙地带的战斗最早将于下周停止，这将引发间接谈判，以结束黎巴嫩南部与以色列边境的敌对行动。</description>
-<pubDate>Thu, 29 Feb 2024 16:19:43 GMT</pubDate>
-<guid isPermaLink="false">SAKGUGQVNNIM3CHJPPZFZOV3YA</guid>
-<link>https://www.reuters.com/world/middle-east/halt-gaza-fighting-would-trigger-lebanon-ceasefire-talks-pm-says-2024-02-29/</link>
-<author>Laila Bassam, Maya Gebeily</author>
+<title>五角大楼收回奥斯汀加沙伤亡数字</title>
+<description>美国国防部长劳埃德·奥斯汀周四告诉国会，自 10 月 7 日以来，以色列已在加沙杀害了超过 25,000 名妇女和儿童，但五角大楼后来澄清了这一估计，称该数字来自哈马斯控制的加沙卫生部，而不是美国智力。</description>
+<pubDate>Thu, 29 Feb 2024 19:08:52 GMT</pubDate>
+<guid isPermaLink="false">CUHOFQWCN5I4DIS3VKDXKEIAJQ</guid>
+<link>https://www.reuters.com/world/middle-east/pentagon-walks-back-austins-gaza-casualty-figures-2024-02-29/</link>
+<author>Reuters</author>
 <category>World</category>
 <category>Middle East</category>
+</item>
+<item>
+<title>举办纳瓦尔尼葬礼的教堂沉浸在他反对的战争中</title>
+<description>阿列克谢·纳瓦尔尼是一名基督徒，他谴责对乌克兰的入侵是一场建立在谎言之上的疯狂事业。但指定举办他葬礼的教堂已经向俄罗斯军队捐款，并热情宣传对战争的支持。</description>
+<pubDate>Thu, 29 Feb 2024 15:56:06 GMT</pubDate>
+<guid isPermaLink="false">OACZXIEA7BLCXNIWFEMXARVUZE</guid>
+<link>https://www.reuters.com/world/europe/church-hosting-navalnys-funeral-is-steeped-war-he-opposed-2024-02-29/</link>
+<author>Mark Trevelyan, Filipp Lebedev</author>
+<category>World</category>
+<category>Europe</category>
 </item>
 <item>
 <title>加沙100多人在寻求援助时丧生，总死亡人数超过30,000</title>
@@ -202,6 +193,26 @@
 <author>Vladimir Soldatkin, Andrew Osborn</author>
 <category>World</category>
 <category>Europe</category>
+</item>
+<item>
+<title>乌克兰高级将领表示，乌克兰击退了俄罗斯的袭击，但情况很困难</title>
+<description>乌克兰陆军司令奥列克桑德尔·西尔斯基周四表示，乌克兰军队已从阿夫迪夫卡以西的奥尔利夫卡村击退了俄罗斯军队，但东部战线的局势仍然困难。</description>
+<pubDate>Thu, 29 Feb 2024 08:09:53 GMT</pubDate>
+<guid isPermaLink="false">SZIHEPAYPVKUFDCSVEBQWLJKB4</guid>
+<link>https://www.reuters.com/world/europe/ukraine-repels-russian-attacks-situation-is-difficult-top-general-says-2024-02-29/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Europe</category>
+</item>
+<item>
+<title>泰国卫生部长表示，泰国将在年底前禁止使用娱乐性大麻</title>
+<description>泰国卫生部长在接受路透社采访时表示，泰国将在今年年底前禁止娱乐性使用大麻，但继续允许其用于医疗目的。</description>
+<pubDate>Thu, 29 Feb 2024 03:45:40 GMT</pubDate>
+<guid isPermaLink="false">M34YB72RHZO3LEAIUDYWLW4EXY</guid>
+<link>https://www.reuters.com/world/asia-pacific/thailand-ban-recreational-cannabis-use-by-year-end-says-health-minister-2024-02-29/</link>
+<author>Panarat Thepgumpanat, Panu Wongcha-Um</author>
+<category>World</category>
+<category>Asia Pacific</category>
 </item>
 </channel>
 </rss>

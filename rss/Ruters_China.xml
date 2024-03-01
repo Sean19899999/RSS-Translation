@@ -3,7 +3,7 @@
 <channel>
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
-<atom:link href="https://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world/china" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest China news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,8 +13,67 @@
 <title>China News | Today's Breaking Stories | Reuters</title>
 <link>https://www.reuters.com/world/china/</link>
 </image>
-<lastBuildDate>Fri, 01 Mar 2024 06:02:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Mar 2024 10:19:02 GMT</lastBuildDate>
 <ttl>120</ttl>
+<item>
+<title>Grifols表示尽职调查已完成，上海莱士股权出售将继续进行</title>
+<description>西班牙制药商 Grifols 周五表示，在尽职调查程序“令人满意”结束后，该公司将继续以 18 亿美元出售上海莱士 20% 的股份。</description>
+<pubDate>Fri, 01 Mar 2024 08:20:05 GMT</pubDate>
+<guid isPermaLink="false">XOA45ZHUVNOWNHDNBNIMBXE4XI</guid>
+<link>https://www.reuters.com/markets/deals/grifols-says-due-diligence-done-shanghai-raas-stake-sale-go-ahead-2024-03-01/</link>
+<author>Reuters</author>
+<category>Markets</category>
+<category>Deals</category>
+</item>
+<item>
+<title>要点五：永远不会有沉闷的时刻</title>
+<description>美国就业数据、美联储主席的证词、美国大选日历中的一个关键日期以及总统乔·拜登的国情咨文演讲都在一周内完成。</description>
+<pubDate>Fri, 01 Mar 2024 07:46:48 GMT</pubDate>
+<guid isPermaLink="false">JWKOM5RJZZJ5FFYUSYKGDVVKVQ</guid>
+<link>https://www.reuters.com/business/take-five/global-markets-themes-takealook-2024-03-01/</link>
+<author>Reuters</author>
+<category>Business</category>
+<category>Take Five</category>
+</item>
+<item>
+<title>投资者抢购“Magnificent 7”科技股和加密货币 - 美国银行</title>
+<description>美国银行全球研究部周五发布的一份报告显示，截至周三的一周，投资者向科技股投入的资金达到了自 8 月以来的最高水平，并且投资加密货币的金额增加了一倍。</description>
+<pubDate>Fri, 01 Mar 2024 07:34:58 GMT</pubDate>
+<guid isPermaLink="false">BU7CLCNEZZMLDBSNGLPJBO2NWM</guid>
+<link>https://www.reuters.com/markets/us/investors-swarm-into-tech-stocks-crypto-bofa-2024-03-01/</link>
+<author>Amanda Cooper</author>
+<category>Markets</category>
+<category>ETFs</category>
+</item>
+<item>
+<title>独家：消息人士称德意志银行将对中国开发商世茂提起清算诉讼</title>
+<description>两位消息人士称，德意志银行正准备在香港对中国开发商世茂集团提起清算诉讼，这是一家外国公司在信贷违约上升和中国房地产业危机加深之际采取的罕见举措。</description>
+<pubDate>Fri, 01 Mar 2024 06:52:39 GMT</pubDate>
+<guid isPermaLink="false">TTFUI3L63NJ5ZBXTVCLVOWSNXU</guid>
+<link>https://www.reuters.com/business/deutsche-bank-file-liquidation-suit-against-chinese-developer-shimao-sources-say-2024-03-01/</link>
+<author>Clare Jim, Yu Xie</author>
+<category>Business</category>
+</item>
+<item>
+<title>中国人大将于下周推出更多刺激措施，但不太可能进行大胆改革</title>
+<description>预计中国人大将在周二开始的年度会议上公布温和的刺激计划，以稳定增长，但可能会让那些呼吁制定大胆政策详细路线图以解决该国深度结构性失衡的人失望。</description>
+<pubDate>Fri, 01 Mar 2024 06:10:37 GMT</pubDate>
+<guid isPermaLink="false">5BJFCA57N5MILBHXB5HZY3QVIA</guid>
+<link>https://www.reuters.com/world/china/chinas-parliament-unveil-more-stimulus-next-week-bold-reforms-unlikely-2024-03-01/</link>
+<author>Kevin Yao</author>
+<category>World</category>
+<category>China</category>
+</item>
+<item>
+<title>由于美国通胀放缓，金价徘徊在一个月高点附近</title>
+<description>周五金价徘徊在一个月高点附近，此前数据显示美国价格压力有所缓解，让投资者对美联储六月降息感到放心。</description>
+<pubDate>Fri, 01 Mar 2024 05:08:01 GMT</pubDate>
+<guid isPermaLink="false">DEOFLFR4ZVPKBKWDIWQ53NSKL4</guid>
+<link>https://www.reuters.com/markets/commodities/gold-hovers-near-one-month-peak-slowing-us-inflation-2024-03-01/</link>
+<author>Harshit Verma</author>
+<category>Markets</category>
+<category>Commodities</category>
+</item>
 <item>
 <title>价格战升级 特斯拉在华推出新激励措施</title>
 <description>特斯拉周五推出了包括保险补贴在内的新激励措施，以吸引全球最大汽车市场的消费者，这家美国电动汽车巨头正在与比亚迪等根深蒂固的竞争对手进行旷日持久的价格战。</description>
@@ -36,7 +95,7 @@
 <category>China</category>
 </item>
 <item>
-<title>日本步履蹒跚、中国不稳定，亚洲工厂为增长而苦苦挣扎</title>
+<title>随着中国和日本的步履蹒跚，亚洲工厂为增长而苦苦挣扎</title>
 <description>2月份，亚洲主要制造业经济体艰难摆脱衰退，其中日本尤其受到需求急剧下降的挤压，而中国复苏的不平衡掩盖了该地区其他地区的一些改善迹象。</description>
 <pubDate>Fri, 01 Mar 2024 03:10:50 GMT</pubDate>
 <guid isPermaLink="false">HMOHHJUTENOPPHEVVBNXKSJPSE</guid>
@@ -56,12 +115,12 @@
 <category>Asia Pacific</category>
 </item>
 <item>
-<title>华尔街反弹，日经指数创历史新高，其他亚洲市场低迷</title>
-<description>日本日经指数周五创下历史新高，受到华尔街反弹的提振，因为美国关键通胀数据符合预期，而亚洲其他市场则因中国经济前景仍然不确定而更加低迷。</description>
+<title>投资者寄希望于降息，股市上涨</title>
+<description>周五，全球股市上涨，美国消费者价格数据未出现令人意外的情况，从而保持了央行未来几个月降息的希望。</description>
 <pubDate>Fri, 01 Mar 2024 02:17:55 GMT</pubDate>
 <guid isPermaLink="false">QF76XCJ77RO55EZQF5JX6RVBJ4</guid>
 <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-01/</link>
-<author>Stella Qiu</author>
+<author>Naomi Rovnick, Stella Qiu</author>
 <category>Markets</category>
 </item>
 <item>
@@ -151,66 +210,6 @@
 <link>https://www.reuters.com/business/chinese-outbound-investment-evs-likely-set-new-record-2023-2024-02-29/</link>
 <author>Joe Cash</author>
 <category>Business</category>
-</item>
-<item>
-<title>斐济称世贸组织的渔业协议不足以保护太平洋岛屿</title>
-<description>包括斐济、巴布亚新几内亚和所罗门群岛在内的一些太平洋岛屿反对在阿布扎比举行的世界贸易组织谈判中提出的一项关于改变渔业补贴的协议草案，认为该草案做得还不够。</description>
-<pubDate>Thu, 29 Feb 2024 12:58:58 GMT</pubDate>
-<guid isPermaLink="false">AFGVE24LB5MALLRKSAJBBUHXIY</guid>
-<link>https://www.reuters.com/world/asia-pacific/fisheries-deal-wto-insufficient-pacific-islands-fiji-says-2024-02-29/</link>
-<author>Alexander Cornwell</author>
-<category>World</category>
-<category>Asia Pacific</category>
-</item>
-<item>
-<title>中国零售商进一步打折 iPhone 15</title>
-<description>由于苹果公司的 iPhone 15 在中国的销售放缓，中国主要第三方零售商京东、天猫和拼多多在 iPhone 15 发布仅五个月后就提供了更大的折扣，以争夺客户。</description>
-<pubDate>Thu, 29 Feb 2024 12:31:16 GMT</pubDate>
-<guid isPermaLink="false">A4ZAFZMNKZNLNPWY7VKNX5ARXI</guid>
-<link>https://www.reuters.com/world/china/chinese-retailers-further-discount-iphone-15-2024-02-29/</link>
-<author>Yelin Mo, Brenda Goh</author>
-<category>World</category>
-<category>China</category>
-</item>
-<item>
-<title>德国希望大型科技公司支付新数字法的合规成本</title>
-<description>德国经济部一位高级官员周四表示，德国希望大型科技公司 Alphabet、亚马逊、苹果、字节跳动、Meta Platform 和微软为旨在限制其权力的欧盟新规则的合规成本做出贡献。</description>
-<pubDate>Thu, 29 Feb 2024 12:19:41 GMT</pubDate>
-<guid isPermaLink="false">4YRUV66SNNN2LN6XRX537EPSSU</guid>
-<link>https://www.reuters.com/technology/germany-wants-big-tech-pay-towards-compliance-costs-new-digital-law-2024-02-29/</link>
-<author>Foo Yun Chee</author>
-<category>Sustainability</category>
-<category>Boards, Policy &amp; Regulation</category>
-</item>
-<item>
-<title>早盘买盘：随着个人消费支出通胀迫在眉睫，日元在闰日上涨</title>
-<description>迈克·多兰 (Mike Dolan) 对美国和全球市场未来一天的展望</description>
-<pubDate>Thu, 29 Feb 2024 11:02:59 GMT</pubDate>
-<guid isPermaLink="false">AEAU6236IBKXZL5WOINCFCSCHQ</guid>
-<link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-29/</link>
-<author>Reuters</author>
-<category>Markets</category>
-<category>U.S. Markets</category>
-</item>
-<item>
-<title>美国将调查中国汽车是否构成国家数据安全风险</title>
-<description>白宫周四表示，美国正在对中国汽车进口是否构成国家安全风险展开调查，并可能因对“联网”汽车技术的担忧而实施限制。</description>
-<pubDate>Thu, 29 Feb 2024 10:04:29 GMT</pubDate>
-<guid isPermaLink="false">KXEJVJ25QRMANJ4Z7K54H2U6KU</guid>
-<link>https://www.reuters.com/business/autos-transportation/us-says-investigate-national-security-data-risks-chinese-vehicles-2024-02-29/</link>
-<author>David Shepardson</author>
-<category>Sustainability</category>
-<category>Boards, Policy &amp; Regulation</category>
-</item>
-<item>
-<title>芬兰商人齐利亚库斯退出国际米兰竞赛</title>
-<description>芬兰商人托马斯·齐利亚库斯(Thomas Zilliacus)周四表示，在新加坡警方上周对他发出逮捕令后，他已退出收购国际米兰的竞选，以集中精力洗清自己的罪名。</description>
-<pubDate>Thu, 29 Feb 2024 09:52:27 GMT</pubDate>
-<guid isPermaLink="false">M2TS5EXXJJMCFLNZPDC3D3TJF4</guid>
-<link>https://www.reuters.com/sports/soccer/finnish-businessman-zilliacus-pulls-out-inter-milan-race-2024-02-29/</link>
-<author>Reuters</author>
-<category>Sports</category>
-<category>Soccer</category>
 </item>
 </channel>
 </rss>
