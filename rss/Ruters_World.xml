@@ -3,7 +3,7 @@
 <channel>
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
-<atom:link href="https://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
+<atom:link href="http://rsshub.app/reuters/world" rel="self" type="application/rss+xml"/>
 <description>Reuters.com is your online source for the latest world news stories and current events, ensuring our readers up to date with any breaking news developments - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
 <generator>RSSHub</generator>
 <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -13,11 +13,31 @@
 <title>World News | Latest Top Stories | Reuters</title>
 <link>https://www.reuters.com/world/</link>
 </image>
-<lastBuildDate>Fri, 01 Mar 2024 20:48:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 Mar 2024 00:27:18 GMT</lastBuildDate>
 <ttl>120</ttl>
 <item>
-<title>美国驻海地大使馆因激烈枪声和交通中断发出警报</title>
-<description>美国驻海地大使馆周五表示，海地首都部分地区周五发生严重枪击事件，交通中断，此前一天，其他暴力事件导致四名警察死亡。</description>
+<title>哥伦比亚民族解放军叛乱分子称已根据与政府的协议释放了所有人质</title>
+<description>哥伦比亚民族解放军（ELN）叛乱分子周五表示，根据与该国政府达成的结束绑架勒索赎金的协议，他们已释放了所有人质。</description>
+<pubDate>Fri, 01 Mar 2024 21:31:58 GMT</pubDate>
+<guid isPermaLink="false">WWNBIBWFLFIP3JH4IMG7ZW36OE</guid>
+<link>https://www.reuters.com/world/americas/colombias-eln-rebels-say-they-have-freed-all-hostages-under-deal-with-govt-2024-03-01/</link>
+<author>Reuters</author>
+<category>World</category>
+<category>Americas</category>
+</item>
+<item>
+<title>全球媒体签署信函，敦促保护加沙记者</title>
+<description>全球多家媒体的高级领导人签署了一封信，敦促以色列当局保护加沙的记者，称记者在以色列袭击加沙飞地期间一直在前所未有的条件下工作，面临“严重的个人风险”。</description>
+<pubDate>Fri, 01 Mar 2024 21:06:27 GMT</pubDate>
+<guid isPermaLink="false">AHXUAERSWRN6FIBYFOE7S7R4RY</guid>
+<link>https://www.reuters.com/world/middle-east/global-media-outlets-sign-letter-urging-protection-journalists-gaza-2024-03-01/</link>
+<author>Kanishka Singh</author>
+<category>World</category>
+<category>Middle East</category>
+</item>
+<item>
+<title>海地帮派头目发誓要“打击”总理，暴力事件激增</title>
+<description>海地黑帮头目吉米·切里齐尔（又名烧烤）周五警告称，随着首都部分地区暴力事件激增，他将继续试图推翻总理阿里尔·亨利，并要求家庭阻止孩子上学，以避免造成附带损害。 。</description>
 <pubDate>Fri, 01 Mar 2024 20:07:11 GMT</pubDate>
 <guid isPermaLink="false">EFEZR24N5BMCZK4XOHL5V3GL4E</guid>
 <link>https://www.reuters.com/world/americas/us-embassy-haiti-issues-alert-amid-heavy-gunfire-traffic-disruptions-2024-03-01/</link>
@@ -27,7 +47,7 @@
 </item>
 <item>
 <title>拜登称美军将向加沙空投援助</title>
-<description>总统乔·拜登周五表示，美国军方将在未来几天内向加沙地带投放人道主义援助，华盛顿将尽一切努力向该飞地提供更多援助。</description>
+<description>总统乔·拜登周五表示，美军将在未来几天内向加沙地带投放人道主义援助，华盛顿将尽一切努力向该飞地提供更多援助。</description>
 <pubDate>Fri, 01 Mar 2024 19:34:46 GMT</pubDate>
 <guid isPermaLink="false">NT4LKAJEUNI3LOAHPDKDRSUFTQ</guid>
 <link>https://www.reuters.com/world/middle-east/biden-says-us-military-will-drop-aid-into-gaza-2024-03-01/</link>
@@ -105,16 +125,6 @@
 <category>Europe</category>
 </item>
 <item>
-<title>法国部长称俄罗斯“虚假信息”炒作巴黎臭虫恐慌</title>
-<description>法国一位部长周五表示，去年秋天巴黎发生的臭虫恐慌事件占据了全球头条新闻，但与俄罗斯“虚假信息”活动有关的社交媒体账户人为地放大了这一事件。</description>
-<pubDate>Fri, 01 Mar 2024 18:34:03 GMT</pubDate>
-<guid isPermaLink="false">6QZH2EFZYFO4XEIBNY3EEXK2QY</guid>
-<link>https://www.reuters.com/world/europe/russian-disinformation-hyped-paris-bedbug-scare-french-minister-says-2024-03-01/</link>
-<author>Reuters</author>
-<category>World</category>
-<category>Europe</category>
-</item>
-<item>
 <title>拜登对华汽车间谍调查背后的政治和经济</title>
 <description>美国总统乔·拜登誓言要“为美国汽车工人做正确的事”，他本周启动了一项调查，调查中国制造的汽车是否可用于监视美国人，鉴于目前美国道路上的此类汽车很少，这是一个遥远的威胁。</description>
 <pubDate>Fri, 01 Mar 2024 18:32:34 GMT</pubDate>
@@ -122,16 +132,6 @@
 <link>https://www.reuters.com/world/politics-economics-behind-bidens-china-car-espionage-probe-2024-03-01/</link>
 <author>David Shepardson, Jarrett Renshaw, Michael Martina</author>
 <category>World</category>
-</item>
-<item>
-<title>随着市场上涨和抗议活动加剧，阿根廷关注米雷国会演讲</title>
-<description>周五，在国会晚上开幕的黄金时段发表国情咨文演讲之前，所有人的目光都集中在阿根廷好斗的自由主义者总统哈维尔·米莱身上，尽管抗议活动开始在街头蔓延，市场也出现反弹。</description>
-<pubDate>Fri, 01 Mar 2024 18:04:40 GMT</pubDate>
-<guid isPermaLink="false">2BUP6WJLGJN3NP6A3WKPUFYKPY</guid>
-<link>https://www.reuters.com/world/americas/argentina-eyes-milei-congress-speech-markets-rise-protests-build-2024-03-01/</link>
-<author>Walter Bianchi</author>
-<category>World</category>
-<category>Americas</category>
 </item>
 <item>
 <title>耶伦称尽管战争语言存在分歧，但美国仍致力于G20金融工作</title>
@@ -184,7 +184,7 @@
 </item>
 <item>
 <title>要求调查以色列军队向等待援助的加沙人开火的压力越来越大</title>
-<description>周五，以色列士兵在一次事件中向人群开枪，导致排队等待援助的巴勒斯坦人死亡，这给以色列带来了越来越大的压力，一些国家支持联合国呼吁进行调查。</description>
+<description>周五，以色列在加沙地带发生的一起混乱事件中造成数十名巴勒斯坦人死亡，这给以色列带来了越来越大的压力。事件中，人群包围了救援卡车车队，士兵开枪，一些国家支持联合国要求进行调查的呼吁。</description>
 <pubDate>Fri, 01 Mar 2024 13:08:17 GMT</pubDate>
 <guid isPermaLink="false">N4MIPM2NAFMHHMJWEZTW5V64PE</guid>
 <link>https://www.reuters.com/world/middle-east/pressure-mounts-inquiry-into-israeli-troops-firing-gazans-waiting-aid-2024-03-01/</link>
@@ -194,7 +194,7 @@
 </item>
 <item>
 <title>伊朗选举：统治者哈梅内伊在不满中寻求高投票率</title>
-<description>伊朗人周五投票选出了新议会，这次选举被视为对宗教机构合法性的考验，目前伊朗人对经济困境以及政治和社会自由受到限制日益感到沮丧。</description>
+<description>伊朗人周五投票选出了新议会，这次选举被视为对宗教机构合法性的考验，目前伊朗人对经济困境以及政治和社会自由受到的限制日益感到沮丧。</description>
 <pubDate>Fri, 01 Mar 2024 01:47:38 GMT</pubDate>
 <guid isPermaLink="false">MMCNQGH3HFMZXJ6O332A4CAW3M</guid>
 <link>https://www.reuters.com/world/middle-east/hardliners-set-tighten-grip-iran-vote-frustration-mounts-2024-03-01/</link>
